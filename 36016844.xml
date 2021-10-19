@@ -1,0 +1,2986 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- XSD Version: 1.01.028 -->
+
+<!-- File Timestamp: 17-OCT-2021 11:16:43 AM -06:00 -->
+
+<!-- Feed Sequence Id: 000355 -->
+
+<!-- Full or Incremental: FULL -->
+
+<!-- Code Body Version: 1.93 -->
+
+<!-- Feed Definition ID: 2802 -->
+
+<Feed xmlns="http://schemas.refinitiv.com/2020/09/11/df5v1.0" Version="1.01.028">
+
+<AssetOverview Id="36016844"><Profile><Names><Name Type="Full"><Text Language="ENG">Europe Small Caps</Text></Name><Name Type="Legal"><Text Language="ENG">Sepiam Funds - Europe Small Caps</Text></Name></Names><CrossReferenceCodes><Code Type="Perm ID" Id="1036941">18036016844</Code><Code Type="Legal Entity Identifier" Id="1045960">969500G4PJJMWERQJ546</Code></CrossReferenceCodes></Profile> <ShareClasses> <ShareClass Id="68474311">
+ <Profile>
+ <Names><Name Type="Full"><Text Language="ENG">Europe Small Caps B</Text><Text Language="FRE">Europe Small Caps B</Text></Name><Name Type="Short"><Text Language="ENG">Europe Small Caps B</Text><Text Language="FRE">Europe Small Caps B</Text></Name><Name Type="Legal"><Text Language="ENG">Sepiam Funds - Europe Small Caps B</Text><Text Language="FRE">Europe Small Caps B</Text></Name></Names>
+
+ <CrossReferenceCodes><Code Type="RIC" Id="1000026">LP68474311</Code><Code Type="ISIN Code" Id="1001424">FR0013298544</Code><Code Type="RIC / Triarch Code" Id="1001425">LP68474311</Code><Code Type="ISIN Currency Class" Id="1005394">FR0013298544.EUR</Code><Code Type="Perm ID" Id="1036941">18068474311</Code><Code Type="Legal Entity Identifier" Id="1045960">969500G4PJJMWERQJ546</Code></CrossReferenceCodes>
+ <KeyData>
+ <Attribute Id="1025680"><Name><Text Language="ENG">Asset Universe</Text><Text Language="ZHT">資產總體</Text><Text Language="GER">Anlageuniversum</Text><Text Language="ZHS">资产领域</Text><Text Language="JPN">アセット ユニバース</Text><Text Language="FRE">Univers D'Actifs</Text></Name><Value Id="1025349"><Text Language="ENG">Mutual Funds</Text><Text Language="ZHS">共同基金</Text><Text Language="ITL">Fondi comuni di investimento</Text><Text Language="SPN">Fondo Mutual</Text><Text Language="GER">Investmentfonds</Text><Text Language="JPN">ミューチュアル ファンド</Text><Text Language="ZHT">共同基金</Text><Text Language="FRE">Fonds de placement</Text></Value></Attribute>
+
+ <Attribute Id="1001034"><Name><Text Language="ENG">Asset Type</Text><Text Language="FRE">Type d'Actif</Text><Text Language="ZHT">資產類型</Text><Text Language="ITL">Tipo di patrimonio</Text><Text Language="SPN">Tipo de Activo</Text><Text Language="GER">Anlageklasse</Text><Text Language="ZHS">资产类型</Text><Text Language="JPN">アセット タイプ</Text></Name><Value Id="1001036"><Text Language="ENG">Equity</Text><Text Language="ITL">Azioni</Text><Text Language="FRE">Actions</Text><Text Language="SPN">Capital / Acciones</Text><Text Language="GER">Aktien</Text><Text Language="ZHS">股票</Text><Text Language="JPN">株式型</Text><Text Language="ZHT">股票</Text></Value></Attribute><Attribute Id="1001041"><Name><Text Language="ENG">Geographical Focus</Text><Text Language="GER">Geographischer Schwerpunkt</Text><Text Language="ITL">Interesse geografico</Text><Text Language="SPN">Enfoque Geográfico</Text><Text Language="ZHS">区域聚焦</Text><Text Language="JPN">投資対象地域</Text><Text Language="ZHT">投資地區</Text><Text Language="FRE">Geographical Focus</Text></Name><Value Id="1001060"><Text Language="ENG">Europe</Text><Text Language="ZHT">歐洲</Text><Text Language="ITL">Europa</Text><Text Language="SPN">Europa</Text><Text Language="GER">Europa</Text><Text Language="ZHS">欧洲</Text><Text Language="JPN">ヨーロッパ</Text><Text Language="FRE">Europe</Text></Value></Attribute><Attribute Id="1025820"><Name><Text Language="ENG">Asset Status</Text><Text Language="ZHT">資產狀態</Text></Name><Value Id="1000381"><Text Language="ENG">Active</Text><Text Language="GER">Aktiv</Text><Text Language="ZHS">未到期</Text><Text Language="JPN">設定中</Text><Text Language="ZHT">主動型</Text></Value></Attribute><Attribute Id="1000299"><Name><Text Language="ENG">Domicile</Text><Text Language="ZHS">注册地</Text><Text Language="GER">Domizil</Text><Text Language="JPN">設定国</Text><Text Language="ZHT">註冊地</Text></Name><Value Id="1000313"><Text Language="ZHT">法國</Text><Text Language="ENG">France</Text><Text Language="JPN">フランス</Text><Text Language="ZHS">法国</Text></Value></Attribute><Attribute Id="1028029"><Name><Text Language="ENG">Currency of record</Text><Text Language="ZHS">记录货币</Text><Text Language="JPN">レコードの通貨</Text><Text Language="ZHT">記錄貨幣</Text></Name><Value Id="11000183" Iso="EUR"><Text Language="ENG">Euro</Text><Text Language="ZHT">歐元</Text><Text Language="SPN">Euro</Text><Text Language="GER">Euro</Text><Text Language="ZHS">欧元</Text><Text Language="JPN">ユーロ</Text></Value></Attribute><Attribute Id="1001129"><Name><Text Language="FRE">Structure Légale</Text><Text Language="ENG">Legal Structure</Text><Text Language="SPN">Estructura Legal</Text><Text Language="ITL">Struttura legale</Text><Text Language="ZHS">法律架构</Text><Text Language="GER">Rechtsform</Text><Text Language="JPN">リーガル ストラクチャー</Text><Text Language="ZHT">法律架構</Text></Name><Value Id="1001167"><Text Language="ENG">SICAV</Text><Text Language="GER">SICAV</Text><Text Language="SPN">SICAV</Text><Text Language="ITL">SICAV</Text><Text Language="ZHS">SICAV</Text><Text Language="JPN">SICAV</Text><Text Language="ZHT">SICAV</Text><Text Language="FRE">SICAV</Text></Value></Attribute><FiscalYearEnd><Day>30</Day><Month>6</Month></FiscalYearEnd>
+
+ <PortfolioManagers><Manager><Name>Undisclosed  </Name></Manager></PortfolioManagers>
+
+ <Objective><Text Language="ENG">The objective of the management is to increase the effectiveness of the actions on the long term and to recapitalize it to 7% for part B and 6% for part A over the year, and a five-year high of 5 years, which is based on discrediting the titres of petites capitalisations boursires. In addition, the majority of the divisions (plus 50%) of the European Union's major capitalist operations (comprising 100 million euros and 1 billion euros), the sectors of activity, are among the main objectives.</Text><Text Language="FRE">L’objectif de gestion consiste à surperformer le marché des actions sur le long terme et à rechercher une valorisation supérieure à 7% pour la part B et 6% pour la part A en rythme annuel moyen, après prise en compte des frais courants, sur une période supérieure à 5 ans, grâce à une gestion discrétionnaire sur les titres de petites capitalisations boursières. Afin de réaliser l’objectif de gestion, le compartiment est exposé majoritairement (plus de 50%) aux actions européennes de petites capitalisations boursières (majoritairement comprise entre 100 millions et 1 milliard d’euros), de tous secteurs d’activité.</Text></Objective>
+
+ <BaseCurrency Id="11000183" Iso ="EUR"><Value><Text Language="ENG">Euro</Text><Text Language="ZHT">歐元</Text><Text Language="SPN">Euro</Text><Text Language="GER">Euro</Text><Text Language="ZHS">欧元</Text><Text Language="JPN">ユーロ</Text></Value></BaseCurrency>
+
+ </KeyData>
+ <MarketData>
+ <ValuationFrequency>Pricing Daily, Mon-Fri</ValuationFrequency>
+
+ </MarketData>
+ <LaunchInfo>
+ <IPODate>2017-12-28</IPODate><IPOPrice Date="2017-12-28"><Price Type="Nav" Estimate="0">1000</Price></IPOPrice><LaunchDate>2018-02-14</LaunchDate><LaunchPrice Date="2018-02-14"><Price Type="Nav" Estimate="0">1000</Price></LaunchPrice>
+
+ </LaunchInfo>
+ <Attributes>
+ <AttributeGroup><Name><Text Language="FRE">Attributs d'Actifs</Text><Text Language="JPN">アセット属性</Text><Text Language="GER">Merkmale</Text><Text Language="ITL">Qualita' Patrimoniali</Text><Text Language="ENG">Asset Attributes</Text><Text Language="SPN">Atributos del Activo</Text><Text Language="ZHS">资产属性</Text><Text Language="ZHT">資產屬性</Text></Name><Attribute Id="1000299">
+<Name>
+<Text Language="ENG">Domicile</Text><Text Language="ZHS">注册地</Text><Text Language="GER">Domizil</Text><Text Language="JPN">設定国</Text><Text Language="ZHT">註冊地</Text>
+</Name>
+<Value Id="1000313"><Text Language="ZHT">法國</Text><Text Language="ENG">France</Text><Text Language="JPN">フランス</Text><Text Language="ZHS">法国</Text>
+</Value>
+</Attribute>
+<Attribute Id="1001034">
+<Name>
+<Text Language="ENG">Asset Type</Text><Text Language="FRE">Type d'Actif</Text><Text Language="ZHT">資產類型</Text><Text Language="ITL">Tipo di patrimonio</Text><Text Language="SPN">Tipo de Activo</Text><Text Language="GER">Anlageklasse</Text><Text Language="ZHS">资产类型</Text><Text Language="JPN">アセット タイプ</Text>
+</Name>
+<Value Id="1001036"><Text Language="ENG">Equity</Text><Text Language="ITL">Azioni</Text><Text Language="FRE">Actions</Text><Text Language="SPN">Capital / Acciones</Text><Text Language="GER">Aktien</Text><Text Language="ZHS">股票</Text><Text Language="JPN">株式型</Text><Text Language="ZHT">股票</Text>
+</Value>
+</Attribute>
+<Attribute Id="1001041">
+<Name>
+<Text Language="ENG">Geographical Focus</Text><Text Language="GER">Geographischer Schwerpunkt</Text><Text Language="ITL">Interesse geografico</Text><Text Language="SPN">Enfoque Geográfico</Text><Text Language="ZHS">区域聚焦</Text><Text Language="JPN">投資対象地域</Text><Text Language="ZHT">投資地區</Text><Text Language="FRE">Geographical Focus</Text>
+</Name>
+<Value Id="1001060"><Text Language="ENG">Europe</Text><Text Language="ZHT">歐洲</Text><Text Language="ITL">Europa</Text><Text Language="SPN">Europa</Text><Text Language="GER">Europa</Text><Text Language="ZHS">欧洲</Text><Text Language="JPN">ヨーロッパ</Text><Text Language="FRE">Europe</Text>
+</Value>
+</Attribute>
+<Attribute Id="1001129">
+<Name>
+<Text Language="FRE">Structure Légale</Text><Text Language="ENG">Legal Structure</Text><Text Language="SPN">Estructura Legal</Text><Text Language="ITL">Struttura legale</Text><Text Language="ZHS">法律架构</Text><Text Language="GER">Rechtsform</Text><Text Language="JPN">リーガル ストラクチャー</Text><Text Language="ZHT">法律架構</Text>
+</Name>
+<Value Id="1001167"><Text Language="ENG">SICAV</Text><Text Language="GER">SICAV</Text><Text Language="SPN">SICAV</Text><Text Language="ITL">SICAV</Text><Text Language="ZHS">SICAV</Text><Text Language="JPN">SICAV</Text><Text Language="ZHT">SICAV</Text><Text Language="FRE">SICAV</Text>
+</Value>
+</Attribute>
+<Attribute Id="1004592">
+<Name>
+<Text Language="ENG">Total Expense Ratio Supplier</Text><Text Language="ITL">TER Fornitore</Text><Text Language="SPN">Relación Provedor de Gastos Totales</Text><Text Language="GER">TER Gesamtkosten</Text><Text Language="FRE">Ratio Total de Dépenses</Text><Text Language="ZHT">總費用率提供商</Text>
+</Name>
+<Value Id="1009468"><Text Language="ENG">Reported by Fund House</Text><Text Language="ITL">Reportado por Casa de Fondo</Text><Text Language="SPN">Reportado por Fondo Interno</Text><Text Language="GER">Berichtet von der Fondsagentur</Text><Text Language="ZHT">由基金公司報告</Text><Text Language="FRE">Déclaré par la Maison Fondatrice</Text>
+</Value>
+</Attribute>
+<Attribute Id="1025680">
+<Name>
+<Text Language="ENG">Asset Universe</Text><Text Language="ZHT">資產總體</Text><Text Language="GER">Anlageuniversum</Text><Text Language="ZHS">资产领域</Text><Text Language="JPN">アセット ユニバース</Text><Text Language="FRE">Univers D'Actifs</Text>
+</Name>
+<Value Id="1025349"><Text Language="ENG">Mutual Funds</Text><Text Language="ZHS">共同基金</Text><Text Language="ITL">Fondi comuni di investimento</Text><Text Language="SPN">Fondo Mutual</Text><Text Language="GER">Investmentfonds</Text><Text Language="JPN">ミューチュアル ファンド</Text><Text Language="ZHT">共同基金</Text><Text Language="FRE">Fonds de placement</Text>
+</Value>
+</Attribute>
+</AttributeGroup>
+
+ <AttributeGroup><Name><Text Language="FRE">Attributs Localisés</Text><Text Language="ZHT">本地化屬性</Text><Text Language="ENG">Localised Attributes</Text><Text Language="ITL">Qualita' localizzate</Text><Text Language="SPN">Atributos Localizados</Text><Text Language="GER">Länderspezifische Merkmale</Text><Text Language="ZHS">本地化属性</Text><Text Language="JPN">特定地域属性</Text></Name><Attribute Id="1046660"><Name><Text Language="ENG">French Tax Schemes Eligibility</Text></Name><Value Id="1046661"><Text Language="ENG">PEA</Text></Value></Attribute><Attribute Id="1046661">
+<Name>
+<Text Language="ENG">PEA</Text>
+</Name>
+<Value Id="1000398"><Text Language="ZHT">是</Text><Text Language="DUT">Ja</Text><Text Language="ZHS">是</Text><Text Language="ENG">Yes</Text><Text Language="FRE">Oui</Text><Text Language="ITL">Si</Text><Text Language="SPN">Si</Text><Text Language="GER">Ja</Text><Text Language="JPN">はい</Text>
+</Value>
+</Attribute>
+</AttributeGroup>
+
+ <AttributeGroup><Name><Text Language="ENG">Themes/Strategy</Text><Text Language="GER">Themen / Strategie</Text><Text Language="SPN">Temas/ Estrategias</Text><Text Language="ITL">Temi/Strategia</Text><Text Language="ZHS">主题/策略</Text><Text Language="JPN">テーマ/ストラテジー</Text><Text Language="ZHT">主題/策略</Text><Text Language="FRE">Thèmes / Stratégies</Text></Name><Attribute Id="1055480">
+<Name>
+<Text Language="ITL">Approccio gestionale</Text><Text Language="ENG">Management Approach</Text><Text Language="SPN">Enfoque de Gestión</Text><Text Language="GER">Management Ansatz</Text><Text Language="FRE">Approche de gestion</Text><Text Language="JPN">管理ｱﾌﾟﾛｰﾁ</Text><Text Language="ZHS">管理理论</Text><Text Language="DUT">Managementbenadering</Text><Text Language="ZHT">管理理論</Text>
+</Name>
+<Value Id="1055240"><Text Language="FRE">Actif (M), Active (F)</Text><Text Language="ENG">Active</Text><Text Language="ITL">Attivo</Text><Text Language="JPN">ｱｸﾃｨﾌﾞ</Text><Text Language="DUT">Actief</Text><Text Language="GER">Aktiv</Text><Text Language="SPN">Activo</Text><Text Language="ZHS">主动</Text><Text Language="ZHT">主動</Text>
+</Value>
+</Attribute>
+</AttributeGroup>
+
+ <AttributeGroup><Name><Text Language="ENG">Identity</Text><Text Language="JPN">フラグ</Text><Text Language="ITL">Identita'</Text><Text Language="SPN">Identidad</Text><Text Language="GER">Identitätsmerkmale</Text><Text Language="ZHS">标志</Text><Text Language="FRE">Identité</Text><Text Language="ZHT">標誌</Text></Name><Attribute Id="1001350">
+<Name>
+<Text Language="ENG">UCITS</Text><Text Language="FRE">UCITS</Text><Text Language="ITL">UCITS</Text><Text Language="SPN">UCITS</Text><Text Language="GER">UCITS</Text><Text Language="ZHS">UCITS</Text><Text Language="JPN">UCITS</Text><Text Language="ZHT">UCITS</Text>
+</Name>
+<Value Id="1000398"><Text Language="ZHT">是</Text><Text Language="DUT">Ja</Text><Text Language="ZHS">是</Text><Text Language="ENG">Yes</Text><Text Language="FRE">Oui</Text><Text Language="ITL">Si</Text><Text Language="SPN">Si</Text><Text Language="GER">Ja</Text><Text Language="JPN">はい</Text>
+</Value>
+</Attribute>
+</AttributeGroup>
+
+ <AttributeGroup><Name><Text Language="ENG">Pricing Profile Information</Text><Text Language="ZHT">計價概況</Text></Name><Attribute Id="1001275">
+<Name>
+<Text Language="ENG">Valuation / Pricing Frequency</Text><Text Language="ITL">Periodo valutazione/determinazione dei prezzi</Text><Text Language="SPN">Valoración / Asignación de Precio</Text><Text Language="GER">Bewertungsfrequenz</Text><Text Language="ZHS">估值/定价频率</Text><Text Language="JPN">バリュエーション / プライシング サイクル</Text><Text Language="ZHT">估值/計價頻率</Text><Text Language="FRE">Valuation / Fixation de Prix</Text>
+</Name>
+<Value Id="1001276"><Text Language="ENG">Pricing Daily, Mon-Fri</Text><Text Language="SPN">Valoración Diariamente</Text><Text Language="ITL">Determinazione dei prezzi su base giornaliera</Text><Text Language="GER">Täglich, Mo-Fr</Text><Text Language="ZHS">周一至周五每日定价</Text><Text Language="JPN">プライシング - 毎日、月～金</Text><Text Language="ZHT">周一至周五每日計價</Text><Text Language="FRE">Détermination des Prix Quotidien</Text>
+</Value>
+</Attribute>
+<Attribute Id="1032102">
+<Name>
+<Text Language="ENG">Price History Tax Operation</Text><Text Language="ZHT">價格歷史稅務操作</Text>
+</Name>
+<Value Id="1000763"><Text Language="ENG">Gross</Text><Text Language="ZHT">總量</Text>
+</Value>
+</Attribute>
+<Attribute Id="1035821">
+<Name>
+<Text Language="ZHT">預期交付價格</Text><Text Language="ENG">Price Delivery Expected</Text>
+</Name>
+<Value Id="1035824"><Text Language="ENG">2</Text><Text Language="ZHT">2</Text>
+</Value>
+</Attribute>
+</AttributeGroup>
+
+ <AttributeGroup><Name><Text Language="ENG">US Data Specific</Text><Text Language="ITL">Dati specifici US</Text><Text Language="ZHS">美国特定数据</Text><Text Language="SPN">Datos Específicos US</Text><Text Language="GER">Merkmale für USA-Fonds</Text><Text Language="ZHT">美國特定數據</Text><Text Language="FRE">Données Spécifiques aux Etats-Unis</Text></Name><Attribute Id="1026367">
+<Name>
+<Text Language="ENG">Last Day of Week</Text><Text Language="ZHT">一周最後一天</Text>
+</Name>
+<Value Id="1031206"><Text Language="ENG">Friday</Text><Text Language="ZHT">星期五</Text>
+</Value>
+</Attribute>
+</AttributeGroup>
+
+ <AttributeGroup><Name><Text Language="ENG">US_FUND_ATTRIBUTE_TYPE</Text><Text Language="ITL">Tipo Qualita' Fondo US</Text><Text Language="SPN">Fondo U.S. Tipo de Atributo</Text><Text Language="ZHS">美国基金属性类型</Text><Text Language="ZHT">US_FUND_ATTRIBUTE_TYPE</Text><Text Language="FRE">Type de Fonds d'Attrinution des EU</Text></Name><Attribute Id="1026962">
+<Name>
+<Text Language="ENG">Dollar NAV Fund</Text><Text Language="ZHT">美元 NAV 基金</Text>
+</Name>
+<Value Id="1000399"><Text Language="ENG">No</Text><Text Language="DUT">Nee, geen</Text><Text Language="SPN">No</Text><Text Language="ITL">No</Text><Text Language="GER">Nein</Text><Text Language="ZHS">否</Text><Text Language="JPN">いいえ</Text><Text Language="ZHT">否</Text><Text Language="FRE">Non</Text>
+</Value>
+</Attribute>
+</AttributeGroup>
+
+ </Attributes>
+ <RegisteredForSaleIn><Country Id="1000855"><Text Language="ENG">France</Text><Text Language="SPN">Francia</Text><Text Language="DUT">Frankrijk</Text><Text Language="ITL">Francia</Text><Text Language="GER">Frankreich</Text><Text Language="ZHS">法国</Text><Text Language="JPN">フランス</Text><Text Language="ZHT">法國</Text><Text Language="FRE">France</Text></Country>
+</RegisteredForSaleIn>
+
+ <ServiceProviders>
+ <ServiceProvider Type="Fund Management Company"><Name>Sepiam SAS</Name><Code>76057741</Code><AddressLine1>48, rue de la Bienfaisance</AddressLine1><City>PARIS</City><PostalCode>75008</PostalCode><Country>France</Country><Telephone>33183811833</Telephone><Website>https://www.sepiam.fr</Website><CrossReferenceCodes><Code Id="1036941" Type="Perm ID">5059928704</Code></CrossReferenceCodes></ServiceProvider>
+
+ <ServiceProvider Type="Investment Advisor"><Name>Sepiam SAS</Name><Code>76057741</Code><AddressLine1>48, rue de la Bienfaisance</AddressLine1><City>PARIS</City><PostalCode>75008</PostalCode><Country>France</Country><Telephone>33183811833</Telephone><Website>https://www.sepiam.fr</Website><CrossReferenceCodes><Code Id="1036941" Type="Perm ID">5059928704</Code></CrossReferenceCodes></ServiceProvider>
+
+ <ServiceProvider Type="Administrator"><Name>Caceis Fund Administration Caceis Fa SA</Name><Code>1283818</Code><AddressLine1>1 A 3 Pl Valhubert</AddressLine1><AddressLine2>Paris 13</AddressLine2><City>PARIS</City><PostalCode>75013</PostalCode><Country>France</Country><CrossReferenceCodes><Code Id="1036941" Type="Perm ID">4298160816</Code></CrossReferenceCodes></ServiceProvider>
+
+ <ServiceProvider Type="Custodian"><Name>CACEIS Bank SA</Name><Code>1281411</Code><AddressLine1>1-3, Place Valhubert</AddressLine1><City>Paris</City><PostalCode>75013</PostalCode><Country>France</Country><Telephone>(33) 1 57 78 16 00</Telephone><Website>www.caceis.com</Website><CrossReferenceCodes><Code Id="1036941" Type="Perm ID">5000007142</Code></CrossReferenceCodes></ServiceProvider>
+
+ <ServiceProvider Type="Promoter"><Name>Sepiam</Name><Code>76057742</Code><Country>Unidentified</Country><Website>www.sepiam.fr</Website></ServiceProvider>
+
+ </ServiceProviders>
+ <Benchmarks><Benchmark Type="LGC Benchmark"><Name>Lipper Global Equity Europe Sm&amp;Mid Cap</Name><Code>19058020</Code></Benchmark><Benchmark Type="Technical Indicator"><Name>MSCI Europe Small Cap TR USD</Name><Code>11017114</Code></Benchmark><Benchmark Type="Fund Manager"><Name>Index is not provided by Management Company</Name><Code>11000006</Code></Benchmark><Benchmark Type="Risk-Free Index"><Name>EURIBOR 3 Month</Name><Code>11000131</Code></Benchmark></Benchmarks>
+
+ <AssetValues>
+ <MonthEndTNA Currency="EUR" Date="2021-09-30">5380000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2021-08-31">5682000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2021-07-30">5434000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2021-06-30">5082000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2021-05-31">4939000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2021-04-30">4778000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2021-03-31">4425000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2021-02-26">4284000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2021-01-29">4134000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2020-12-31">4072000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2020-11-30">3688000</MonthEndTNA><MonthEndTNA Currency="EUR" Date="2020-10-30">3317000</MonthEndTNA><AggregatedTNA Currency="EUR" Date="2021-09-30">5380000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2021-09-30">6235010.582</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2021-08-31">5682000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2021-08-31">6707425.9944</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2021-07-31">5434000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2021-07-31">6443635.0264</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2021-06-30">5082000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2021-06-30">6026722.4556</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2021-05-31">4939000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2021-05-31">6038868.3795</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2021-04-30">4778000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2021-04-30">5751754.011</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2021-03-31">4425000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2021-03-31">5200760.4675</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2021-02-28">4284000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2021-02-28">5199861.366</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2021-01-31">4134000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2021-01-31">5022391.2258</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2020-12-31">4072000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2020-12-31">4982295.1928</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2020-11-30">3688000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2020-11-30">4411490.4496</AggregatedTNA><AggregatedTNA Currency="EUR" Date="2020-10-31">3317000</AggregatedTNA><AggregatedTNA Currency="USD" Date="2020-10-31">3863856.8733</AggregatedTNA>
+
+ <SharesOutstanding Date="2021-10-14">3402.0</SharesOutstanding>
+
+ </AssetValues>
+ <Prices StartDate="2021-09-30" EndDate="2021-10-13" Currency="EUR"><PriceSet Date="2021-10-13"><Price Type="Nav">1609.69</Price></PriceSet><PriceSet Date="2021-10-12"><Price Type="Nav">1577.27</Price></PriceSet><PriceSet Date="2021-10-11"><Price Type="Nav">1564.74</Price></PriceSet><PriceSet Date="2021-10-08"><Price Type="Nav">1571.48</Price></PriceSet><PriceSet Date="2021-10-07"><Price Type="Nav">1576.89</Price></PriceSet><PriceSet Date="2021-10-06"><Price Type="Nav">1564.55</Price></PriceSet><PriceSet Date="2021-10-05"><Price Type="Nav">1584.62</Price></PriceSet><PriceSet Date="2021-10-04"><Price Type="Nav">1565.39</Price></PriceSet><PriceSet Date="2021-10-01"><Price Type="Nav">1578.61</Price></PriceSet><PriceSet Date="2021-09-30"><Price Type="Nav">1582.98</Price></PriceSet></Prices>
+
+ <Price52WeekHL StartDate="2020-10-16" EndDate="2021-10-15" Currency="EUR"><High Date="2021-09-06"><Price Type="Nav">1692.3</Price></High><Low Date="2020-10-28"><Price Type="Nav">1084.58</Price></Low></Price52WeekHL>
+
+ <IncomeInformation>
+ <IncomeOperation><Operation>Retained</Operation></IncomeOperation><IncomeAsInterest>false</IncomeAsInterest><DefaultTaxBasis>Gross</DefaultTaxBasis>
+
+ </IncomeInformation>
+ <RelatedAssets>
+ <Umbrella>68477115</Umbrella><Primary>68474311</Primary><Portfolio>36016845</Portfolio><Parent>36016844</Parent>
+
+ </RelatedAssets>
+ </Profile>
+ <FeesExpenses>
+ <Charges>
+ <ChargeGlobal Type="Initial"><Max>2.0</Max></ChargeGlobal><ChargeGlobal Type="Annual"><Max>1.0</Max></ChargeGlobal><ChargeGlobal Type="Redemption"><Actual>0.0</Actual></ChargeGlobal>
+
+ </Charges>
+ <Fees><Report ReportDate="2021-07-11"><ReportType>Annual Report</ReportType><Currency>LC</Currency><FeeSet><Fee Id="1026103" Type="Total Expense Ratio"><Percent>1.79</Percent></Fee><Fee Id="1039778" Type="Performance Fees"><Percent>2.17</Percent></Fee></FeeSet></Report></Fees>
+
+ </FeesExpenses>
+ <MinimumInvestments UpdateDate="2021-09-02"><Initial Currency="Units">10</Initial><Regular Currency="Units">.01</Regular><Irregular Currency="Units">.01</Irregular></MinimumInvestments>
+
+ <Classifications><Class><Scheme Id="1006052"><Text Language="ENG">Lipper Global</Text><Text Language="FRE">Lipper Global</Text><Text Language="DUT">Lipper Global</Text><Text Language="SPN">Lipper Global</Text><Text Language="ITL">Lipper Global</Text><Text Language="GER">Lipper Global</Text><Text Language="ZHS">理柏 环球</Text><Text Language="JPN">リッパー グローバル分類</Text><Text Language="ZHT">理柏環球分類</Text></Scheme><Classification Id="1006075"><Name><Text Language="ENG">Equity Europe Sm&amp;Mid Cap</Text><Text Language="DUT">Aandelen Europa Small &amp; Mid Cap</Text><Text Language="FRE">Actions Europe Petites &amp; Moy. Cap.</Text><Text Language="ITL">Azionario Europa Piccola e Media Impresa</Text><Text Language="SPN">Renta Variable Europea Pequeña y Mediana Capitalización</Text><Text Language="GER">Aktien Europa Kleine &amp; Mittlere Unternehmen</Text><Text Language="ZHS">欧洲中小盘股票</Text><Text Language="JPN">株式型　欧州　中小型株</Text><Text Language="ZHT">歐洲中小型股票</Text></Name></Classification></Class><Class><Scheme Id="1002067"><Text Language="ENG">AMF</Text><Text Language="ITL">AMF</Text><Text Language="DUT">AMF</Text><Text Language="SPN">AMF</Text><Text Language="GER">AMF</Text><Text Language="ZHS">AMF</Text><Text Language="JPN">AMF</Text><Text Language="ZHT">AMF</Text><Text Language="FRE">AMF</Text></Scheme><Classification Id="1004381"><Name><Text Language="ENG">Sans classification</Text><Text Language="JPN">Diversifies</Text><Text Language="SPN">Diversificados</Text><Text Language="ZHS">Diversifies</Text><Text Language="ZHT">多元化</Text><Text Language="FRE">Diversifiés</Text></Name></Classification></Class></Classifications>
+
+ <Performance>
+ <Returns Type="PercentageGrowthCumulative" EndDate="2021-09-30" Alignment="PreviousMonthEnd">
+
+ <Return StartDate="2021-08-31" Period="1M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>-5.5100944528</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>3045</Rank><UniverseSize>3101</UniverseSize><UniverseAverage>-1.32</UniverseAverage><UniverseMedian>-1.167</UniverseMedian><UniverseHigh>12.716</UniverseHigh><UniverseLow>-9.791</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>566</Rank><UniverseSize>646</UniverseSize><UniverseAverage>-4.272</UniverseAverage><UniverseMedian>-4.474</UniverseMedian><UniverseHigh>3.949</UniverseHigh><UniverseLow>-7.006</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-06-30" Period="3M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>5.1555412442</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>32</Rank><UniverseSize>3094</UniverseSize><UniverseAverage>0.156</UniverseAverage><UniverseMedian>0.136</UniverseMedian><UniverseHigh>14.019</UniverseHigh><UniverseLow>-18.328</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>110</Rank><UniverseSize>645</UniverseSize><UniverseAverage>2.601</UniverseAverage><UniverseMedian>2.322</UniverseMedian><UniverseHigh>12.03</UniverseHigh><UniverseLow>-5.639</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-03-31" Period="6M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>16.4144207719</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>9</Rank><UniverseSize>3070</UniverseSize><UniverseAverage>2.821</UniverseAverage><UniverseMedian>2.442</UniverseMedian><UniverseHigh>27.875</UniverseHigh><UniverseLow>-27.347</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>48</Rank><UniverseSize>643</UniverseSize><UniverseAverage>9.643</UniverseAverage><UniverseMedian>9.34</UniverseMedian><UniverseHigh>28.726</UniverseHigh><UniverseLow>-1.264</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-09-30" Period="1Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>39.4253830435</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>52</Rank><UniverseSize>2963</UniverseSize><UniverseAverage>12.214</UniverseAverage><UniverseMedian>10.539</UniverseMedian><UniverseHigh>77.316</UniverseHigh><UniverseLow>-53.577</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>194</Rank><UniverseSize>619</UniverseSize><UniverseAverage>33.963</UniverseAverage><UniverseMedian>32.476</UniverseMedian><UniverseHigh>65.024</UniverseHigh><UniverseLow>8.363</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2018-09-30" Period="3Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>57.7317455079</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>7</Rank><UniverseSize>2405</UniverseSize><UniverseAverage>11.386</UniverseAverage><UniverseMedian>9.502</UniverseMedian><UniverseHigh>87.507</UniverseHigh><UniverseLow>-69.775</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>54</Rank><UniverseSize>527</UniverseSize><UniverseAverage>37.624</UniverseAverage><UniverseMedian>36.433</UniverseMedian><UniverseHigh>91.6</UniverseHigh><UniverseLow>-7.055</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-12-31" Period="YT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>22.6013733618</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>40</Rank><UniverseSize>3036</UniverseSize><UniverseAverage>5.793</UniverseAverage><UniverseMedian>4.994</UniverseMedian><UniverseHigh>45.556</UniverseHigh><UniverseLow>-34.395</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>126</Rank><UniverseSize>635</UniverseSize><UniverseAverage>18.016</UniverseAverage><UniverseMedian>17.075</UniverseMedian><UniverseHigh>36.419</UniverseHigh><UniverseLow>3.366</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2018-02-14" Period="INC">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>58.2980029628</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>763</Rank><UniverseSize>2867</UniverseSize><UniverseAverage>34.256</UniverseAverage><UniverseMedian>19.19</UniverseMedian><UniverseHigh>515.922</UniverseHigh><UniverseLow>-97.344</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>486</Rank><UniverseSize>613</UniverseSize><UniverseAverage>138.722</UniverseAverage><UniverseMedian>88.461</UniverseMedian><UniverseHigh>873.971</UniverseHigh><UniverseLow>0.084</UniverseLow></Class>
+
+ </Rank>
+
+
+</ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-12-31" Period="9M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>22.6013733618</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>40</Rank><UniverseSize>3036</UniverseSize><UniverseAverage>5.793</UniverseAverage><UniverseMedian>4.994</UniverseMedian><UniverseHigh>45.556</UniverseHigh><UniverseLow>-34.395</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>126</Rank><UniverseSize>635</UniverseSize><UniverseAverage>18.016</UniverseAverage><UniverseMedian>17.075</UniverseMedian><UniverseHigh>36.419</UniverseHigh><UniverseLow>3.366</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2019-09-30" Period="2Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>67.9572173166</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>8</Rank><UniverseSize>2706</UniverseSize><UniverseAverage>10.416</UniverseAverage><UniverseMedian>8.156</UniverseMedian><UniverseHigh>106.903</UniverseHigh><UniverseLow>-58.31</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>38</Rank><UniverseSize>604</UniverseSize><UniverseAverage>41.707</UniverseAverage><UniverseMedian>41.954</UniverseMedian><UniverseHigh>107.407</UniverseHigh><UniverseLow>4.65</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-06-30" Period="QT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>5.1555412442</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>32</Rank><UniverseSize>3094</UniverseSize><UniverseAverage>0.156</UniverseAverage><UniverseMedian>0.136</UniverseMedian><UniverseHigh>14.019</UniverseHigh><UniverseLow>-18.328</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>110</Rank><UniverseSize>645</UniverseSize><UniverseAverage>2.601</UniverseAverage><UniverseMedian>2.322</UniverseMedian><UniverseHigh>12.03</UniverseHigh><UniverseLow>-5.639</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ </Returns>
+
+ <Returns Type="PercentageGrowthCumulativeLoadAdj" EndDate="2021-09-30" Alignment="PreviousMonthEnd">
+
+ <Return StartDate="2021-08-31" Period="1M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>-7.3998925699</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>2897</Rank><UniverseSize>3102</UniverseSize><UniverseAverage>-4.112</UniverseAverage><UniverseMedian>-4.16</UniverseMedian><UniverseHigh>7.08</UniverseHigh><UniverseLow>-26.504</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>379</Rank><UniverseSize>646</UniverseSize><UniverseAverage>-6.792</UniverseAverage><UniverseMedian>-6.615</UniverseMedian><UniverseHigh>0.83</UniverseHigh><UniverseLow>-16.087</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-06-30" Period="3M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>3.0524304398</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>28</Rank><UniverseSize>3094</UniverseSize><UniverseAverage>-2.674</UniverseAverage><UniverseMedian>-2.557</UniverseMedian><UniverseHigh>13.99</UniverseHigh><UniverseLow>-25.678</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>127</Rank><UniverseSize>645</UniverseSize><UniverseAverage>-0.094</UniverseAverage><UniverseMedian>-0.069</UniverseMedian><UniverseHigh>9.158</UniverseHigh><UniverseLow>-14.005</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-03-31" Period="6M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>14.0861324072</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>10</Rank><UniverseSize>3070</UniverseSize><UniverseAverage>-0.088</UniverseAverage><UniverseMedian>-0.185</UniverseMedian><UniverseHigh>27.811</UniverseHigh><UniverseLow>-31.709</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>40</Rank><UniverseSize>643</UniverseSize><UniverseAverage>6.752</UniverseAverage><UniverseMedian>6.893</UniverseMedian><UniverseHigh>22.249</UniverseHigh><UniverseLow>-9.179</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-09-30" Period="1Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>36.6368753401</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>50</Rank><UniverseSize>2963</UniverseSize><UniverseAverage>9.004</UniverseAverage><UniverseMedian>7.496</UniverseMedian><UniverseHigh>72.724</UniverseHigh><UniverseLow>-55.898</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>160</Rank><UniverseSize>619</UniverseSize><UniverseAverage>30.385</UniverseAverage><UniverseMedian>30.304</UniverseMedian><UniverseHigh>63.892</UniverseHigh><UniverseLow>2.944</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2018-09-30" Period="3Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>54.5771105958</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>7</Rank><UniverseSize>2405</UniverseSize><UniverseAverage>8.255</UniverseAverage><UniverseMedian>6.451</UniverseMedian><UniverseHigh>83.757</UniverseHigh><UniverseLow>-71.286</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>43</Rank><UniverseSize>527</UniverseSize><UniverseAverage>33.847</UniverseAverage><UniverseMedian>33.501</UniverseMedian><UniverseHigh>91.6</UniverseHigh><UniverseLow>-10.424</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-12-31" Period="YT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>20.1493459431</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>30</Rank><UniverseSize>3036</UniverseSize><UniverseAverage>2.787</UniverseAverage><UniverseMedian>2.161</UniverseMedian><UniverseHigh>45.447</UniverseHigh><UniverseLow>-37.675</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>119</Rank><UniverseSize>635</UniverseSize><UniverseAverage>14.896</UniverseAverage><UniverseMedian>14.378</UniverseMedian><UniverseHigh>35.997</UniverseHigh><UniverseLow>-3.35</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2018-02-14" Period="INC">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>55.1320428907</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>739</Rank><UniverseSize>2868</UniverseSize><UniverseAverage>30.322</UniverseAverage><UniverseMedian>16.369</UniverseMedian><UniverseHigh>492.594</UniverseHigh><UniverseLow>-97.476</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>481</Rank><UniverseSize>613</UniverseSize><UniverseAverage>131.972</UniverseAverage><UniverseMedian>83.318</UniverseMedian><UniverseHigh>825.273</UniverseHigh><UniverseLow>-4.139</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-12-30" Period="9M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>20.3404123181</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>31</Rank><UniverseSize>3035</UniverseSize><UniverseAverage>2.854</UniverseAverage><UniverseMedian>2.23</UniverseMedian><UniverseHigh>47.969</UniverseHigh><UniverseLow>-36.875</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>118</Rank><UniverseSize>634</UniverseSize><UniverseAverage>14.927</UniverseAverage><UniverseMedian>14.448</UniverseMedian><UniverseHigh>36.393</UniverseHigh><UniverseLow>-3.518</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2019-09-30" Period="2Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>64.5980730173</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>8</Rank><UniverseSize>2706</UniverseSize><UniverseAverage>7.283</UniverseAverage><UniverseMedian>5.32</UniverseMedian><UniverseHigh>102.765</UniverseHigh><UniverseLow>-60.395</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>33</Rank><UniverseSize>604</UniverseSize><UniverseAverage>37.879</UniverseAverage><UniverseMedian>37.266</UniverseMedian><UniverseHigh>107.407</UniverseHigh><UniverseLow>2.791</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-06-30" Period="QT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>3.0524304398</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>28</Rank><UniverseSize>3094</UniverseSize><UniverseAverage>-2.674</UniverseAverage><UniverseMedian>-2.557</UniverseMedian><UniverseHigh>13.99</UniverseHigh><UniverseLow>-25.678</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>127</Rank><UniverseSize>645</UniverseSize><UniverseAverage>-0.094</UniverseAverage><UniverseMedian>-0.069</UniverseMedian><UniverseHigh>9.158</UniverseHigh><UniverseLow>-14.005</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ </Returns>
+
+ <Returns Type="PercentageGrowthCumulative" EndDate="2021-10-15" Alignment="PreviousDay">
+
+ <Return StartDate="2021-09-15" Period="1M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>-2.2582078519</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>2922</Rank><UniverseSize>3098</UniverseSize><UniverseAverage>-0.446</UniverseAverage><UniverseMedian>-0.489</UniverseMedian><UniverseHigh>9.792</UniverseHigh><UniverseLow>-9.59</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>446</Rank><UniverseSize>648</UniverseSize><UniverseAverage>-1.505</UniverseAverage><UniverseMedian>-1.495</UniverseMedian><UniverseHigh>4.331</UniverseHigh><UniverseLow>-6.321</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-07-15" Period="3M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>3.9072825339</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>134</Rank><UniverseSize>3093</UniverseSize><UniverseAverage>0.52</UniverseAverage><UniverseMedian>0.223</UniverseMedian><UniverseHigh>14.537</UniverseHigh><UniverseLow>-13.676</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>231</Rank><UniverseSize>647</UniverseSize><UniverseAverage>3.133</UniverseAverage><UniverseMedian>2.967</UniverseMedian><UniverseHigh>12.03</UniverseHigh><UniverseLow>-5.5</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-04-15" Period="6M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>12.0985215872</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>24</Rank><UniverseSize>3075</UniverseSize><UniverseAverage>2.214</UniverseAverage><UniverseMedian>1.7</UniverseMedian><UniverseHigh>32.607</UniverseHigh><UniverseLow>-28.247</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>104</Rank><UniverseSize>645</UniverseSize><UniverseAverage>7.639</UniverseAverage><UniverseMedian>7.173</UniverseMedian><UniverseHigh>28.726</UniverseHigh><UniverseLow>-3.641</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-10-15" Period="1Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>38.3525096648</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>66</Rank><UniverseSize>2987</UniverseSize><UniverseAverage>11.721</UniverseAverage><UniverseMedian>9.325</UniverseMedian><UniverseHigh>83.887</UniverseHigh><UniverseLow>-55.271</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>204</Rank><UniverseSize>625</UniverseSize><UniverseAverage>33.916</UniverseAverage><UniverseMedian>32.346</UniverseMedian><UniverseHigh>65.024</UniverseHigh><UniverseLow>9.039</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2018-10-15" Period="3Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>78.5370391092</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>4</Rank><UniverseSize>2428</UniverseSize><UniverseAverage>15.768</UniverseAverage><UniverseMedian>12.961</UniverseMedian><UniverseHigh>106.538</UniverseHigh><UniverseLow>-74.909</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>50</Rank><UniverseSize>534</UniverseSize><UniverseAverage>53.179</UniverseAverage><UniverseMedian>51.493</UniverseMedian><UniverseHigh>111.189</UniverseHigh><UniverseLow>0.652</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-12-31" Period="YT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>24.6700602142</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>38</Rank><UniverseSize>3032</UniverseSize><UniverseAverage>6.366</UniverseAverage><UniverseMedian>5.244</UniverseMedian><UniverseHigh>46.624</UniverseHigh><UniverseLow>-37.842</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>131</Rank><UniverseSize>637</UniverseSize><UniverseAverage>19.991</UniverseAverage><UniverseMedian>18.892</UniverseMedian><UniverseHigh>38.648</UniverseHigh><UniverseLow>3.189</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2018-02-14" Period="INC">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>60.9690088906</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>755</Rank><UniverseSize>2862</UniverseSize><UniverseAverage>35.073</UniverseAverage><UniverseMedian>19.873</UniverseMedian><UniverseHigh>528.81</UniverseHigh><UniverseLow>-97.483</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>483</Rank><UniverseSize>612</UniverseSize><UniverseAverage>142.938</UniverseAverage><UniverseMedian>92.897</UniverseMedian><UniverseHigh>891.813</UniverseHigh><UniverseLow>0.971</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-10-08" Period="1W">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>2.4314616401</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>96</Rank><UniverseSize>3100</UniverseSize><UniverseAverage>0.464</UniverseAverage><UniverseMedian>0.214</UniverseMedian><UniverseHigh>7.988</UniverseHigh><UniverseLow>-3.827</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>414</Rank><UniverseSize>648</UniverseSize><UniverseAverage>2.717</UniverseAverage><UniverseMedian>2.722</UniverseMedian><UniverseHigh>5.109</UniverseHigh><UniverseLow>-0.905</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-01-15" Period="9M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>23.2468456108</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>37</Rank><UniverseSize>3041</UniverseSize><UniverseAverage>5.256</UniverseAverage><UniverseMedian>4.12</UniverseMedian><UniverseHigh>39.984</UniverseHigh><UniverseLow>-36.406</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>124</Rank><UniverseSize>639</UniverseSize><UniverseAverage>18.2</UniverseAverage><UniverseMedian>17.012</UniverseMedian><UniverseHigh>36.627</UniverseHigh><UniverseLow>1.348</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2019-10-15" Period="2Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>70.5631694787</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>8</Rank><UniverseSize>2709</UniverseSize><UniverseAverage>11.289</UniverseAverage><UniverseMedian>8.908</UniverseMedian><UniverseHigh>107.139</UniverseHigh><UniverseLow>-59.134</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>39</Rank><UniverseSize>606</UniverseSize><UniverseAverage>43.225</UniverseAverage><UniverseMedian>42.77</UniverseMedian><UniverseHigh>107.139</UniverseHigh><UniverseLow>5.359</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-09-30" Period="MT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>1.6873276281</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>368</Rank><UniverseSize>3099</UniverseSize><UniverseAverage>0.511</UniverseAverage><UniverseMedian>0.343</UniverseMedian><UniverseHigh>15.045</UniverseHigh><UniverseLow>-5.423</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>315</Rank><UniverseSize>648</UniverseSize><UniverseAverage>1.655</UniverseAverage><UniverseMedian>1.676</UniverseMedian><UniverseHigh>5.201</UniverseHigh><UniverseLow>-1.298</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-09-30" Period="QT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>1.6873276281</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>368</Rank><UniverseSize>3099</UniverseSize><UniverseAverage>0.511</UniverseAverage><UniverseMedian>0.343</UniverseMedian><UniverseHigh>15.045</UniverseHigh><UniverseLow>-5.423</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>315</Rank><UniverseSize>648</UniverseSize><UniverseAverage>1.655</UniverseAverage><UniverseMedian>1.676</UniverseMedian><UniverseHigh>5.201</UniverseHigh><UniverseLow>-1.298</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ </Returns>
+
+ <Returns Type="PercentageGrowthCumulativeLoadAdj" EndDate="2021-10-15" Alignment="PreviousDay">
+
+ <Return StartDate="2021-09-15" Period="1M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>-4.2130437275</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>2031</Rank><UniverseSize>3098</UniverseSize><UniverseAverage>-3.264</UniverseAverage><UniverseMedian>-3.183</UniverseMedian><UniverseHigh>8.521</UniverseHigh><UniverseLow>-21.635</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>326</Rank><UniverseSize>648</UniverseSize><UniverseAverage>-4.088</UniverseAverage><UniverseMedian>-4.208</UniverseMedian><UniverseHigh>3.441</UniverseHigh><UniverseLow>-14.752</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-07-15" Period="3M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>1.8291368364</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>154</Rank><UniverseSize>3093</UniverseSize><UniverseAverage>-2.321</UniverseAverage><UniverseMedian>-2.194</UniverseMedian><UniverseHigh>13.281</UniverseHigh><UniverseLow>-21.411</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>231</Rank><UniverseSize>647</UniverseSize><UniverseAverage>0.432</UniverseAverage><UniverseMedian>0.24</UniverseMedian><UniverseHigh>9.506</UniverseHigh><UniverseLow>-13.823</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-04-15" Period="6M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>9.8565511823</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>19</Rank><UniverseSize>3075</UniverseSize><UniverseAverage>-0.679</UniverseAverage><UniverseMedian>-0.859</UniverseMedian><UniverseHigh>32.541</UniverseHigh><UniverseLow>-31.835</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>86</Rank><UniverseSize>645</UniverseSize><UniverseAverage>4.811</UniverseAverage><UniverseMedian>4.998</UniverseMedian><UniverseHigh>17.141</UniverseHigh><UniverseLow>-11.567</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-10-15" Period="1Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>35.5854594977</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>67</Rank><UniverseSize>2987</UniverseSize><UniverseAverage>8.531</UniverseAverage><UniverseMedian>6.405</UniverseMedian><UniverseHigh>81.746</UniverseHigh><UniverseLow>-57.508</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>188</Rank><UniverseSize>625</UniverseSize><UniverseAverage>30.365</UniverseAverage><UniverseMedian>30.077</UniverseMedian><UniverseHigh>61.165</UniverseHigh><UniverseLow>3.587</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2018-10-15" Period="3Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>74.9662982731</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>4</Rank><UniverseSize>2428</UniverseSize><UniverseAverage>12.515</UniverseAverage><UniverseMedian>9.753</UniverseMedian><UniverseHigh>102.407</UniverseHigh><UniverseLow>-76.163</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>43</Rank><UniverseSize>534</UniverseSize><UniverseAverage>48.993</UniverseAverage><UniverseMedian>47.674</UniverseMedian><UniverseHigh>110.405</UniverseHigh><UniverseLow>-2.971</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-12-31" Period="YT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>22.1766589867</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>34</Rank><UniverseSize>3032</UniverseSize><UniverseAverage>3.344</UniverseAverage><UniverseMedian>2.362</UniverseMedian><UniverseHigh>46.512</UniverseHigh><UniverseLow>-40.95</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>124</Rank><UniverseSize>637</UniverseSize><UniverseAverage>16.832</UniverseAverage><UniverseMedian>16.532</UniverseMedian><UniverseHigh>38.205</UniverseHigh><UniverseLow>-2.85</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2018-02-14" Period="INC">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>57.7496286828</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>735</Rank><UniverseSize>2862</UniverseSize><UniverseAverage>31.122</UniverseAverage><UniverseMedian>16.746</UniverseMedian><UniverseHigh>497.762</UniverseHigh><UniverseLow>-97.609</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>483</Rank><UniverseSize>612</UniverseSize><UniverseAverage>136.077</UniverseAverage><UniverseMedian>86.761</UniverseMedian><UniverseHigh>842.223</UniverseHigh><UniverseLow>-2.183</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-10-14" Period="1D">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>-2.000000316</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>766</Rank><UniverseSize>3100</UniverseSize><UniverseAverage>-3.063</UniverseAverage><UniverseMedian>-3.0</UniverseMedian><UniverseHigh>0.491</UniverseHigh><UniverseLow>-23.393</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>230</Rank><UniverseSize>648</UniverseSize><UniverseAverage>-2.555</UniverseAverage><UniverseMedian>-3.0</UniverseMedian><UniverseHigh>1.541</UniverseHigh><UniverseLow>-22.56</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-10-08" Period="1W">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>0.3828323415</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>262</Rank><UniverseSize>3100</UniverseSize><UniverseAverage>-2.612</UniverseAverage><UniverseMedian>-2.488</UniverseMedian><UniverseHigh>7.312</UniverseHigh><UniverseLow>-23.452</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>266</Rank><UniverseSize>648</UniverseSize><UniverseAverage>-0.173</UniverseAverage><UniverseMedian>-0.374</UniverseMedian><UniverseHigh>5.109</UniverseHigh><UniverseLow>-21.132</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-01-15" Period="9M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>20.7819086965</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>37</Rank><UniverseSize>3041</UniverseSize><UniverseAverage>2.268</UniverseAverage><UniverseMedian>1.251</UniverseMedian><UniverseHigh>39.882</UniverseHigh><UniverseLow>-39.585</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>115</Rank><UniverseSize>639</UniverseSize><UniverseAverage>15.095</UniverseAverage><UniverseMedian>14.892</UniverseMedian><UniverseHigh>36.311</UniverseHigh><UniverseLow>-5.225</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2019-10-15" Period="2Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>67.1519061062</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>8</Rank><UniverseSize>2709</UniverseSize><UniverseAverage>8.126</UniverseAverage><UniverseMedian>5.935</UniverseMedian><UniverseHigh>102.996</UniverseHigh><UniverseLow>-61.177</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>37</Rank><UniverseSize>606</UniverseSize><UniverseAverage>39.368</UniverseAverage><UniverseMedian>38.501</UniverseMedian><UniverseHigh>106.64</UniverseHigh><UniverseLow>2.575</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-09-30" Period="MT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>-0.3464189484</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>597</Rank><UniverseSize>3099</UniverseSize><UniverseAverage>-2.333</UniverseAverage><UniverseMedian>-2.145</UniverseMedian><UniverseHigh>12.23</UniverseHigh><UniverseLow>-20.488</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>258</Rank><UniverseSize>648</UniverseSize><UniverseAverage>-1.012</UniverseAverage><UniverseMedian>-1.395</UniverseMedian><UniverseHigh>4.744</UniverseHigh><UniverseLow>-11.545</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-09-30" Period="QT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>-0.3464189484</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>597</Rank><UniverseSize>3099</UniverseSize><UniverseAverage>-2.333</UniverseAverage><UniverseMedian>-2.145</UniverseMedian><UniverseHigh>12.23</UniverseHigh><UniverseLow>-20.488</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>258</Rank><UniverseSize>648</UniverseSize><UniverseAverage>-1.012</UniverseAverage><UniverseMedian>-1.395</UniverseMedian><UniverseHigh>4.744</UniverseHigh><UniverseLow>-11.545</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ </Returns>
+
+ <Returns Type="RelativePerformance" EndDate="2021-09-30" Alignment="PreviousMonthEnd">
+
+ <Return StartDate="2021-03-31" Period="6M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>9.6020927241</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>25</Rank><UniverseSize>3070</UniverseSize><UniverseAverage>0.723</UniverseAverage><UniverseMedian>0.757</UniverseMedian><UniverseHigh>16.748</UniverseHigh><UniverseLow>-33.186</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>48</Rank><UniverseSize>643</UniverseSize><UniverseAverage>2.842</UniverseAverage><UniverseMedian>2.528</UniverseMedian><UniverseHigh>21.914</UniverseHigh><UniverseLow>-8.077</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-09-30" Period="1Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>2.0517982043</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>1223</Rank><UniverseSize>2963</UniverseSize><UniverseAverage>1.13</UniverseAverage><UniverseMedian>1.101</UniverseMedian><UniverseHigh>67.564</UniverseHigh><UniverseLow>-53.756</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>194</Rank><UniverseSize>619</UniverseSize><UniverseAverage>-3.279</UniverseAverage><UniverseMedian>-4.898</UniverseMedian><UniverseHigh>27.651</UniverseHigh><UniverseLow>-29.011</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2018-09-30" Period="3Y">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>20.4483454689</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>50</Rank><UniverseSize>2405</UniverseSize><UniverseAverage>-8.3</UniverseAverage><UniverseMedian>-8.277</UniverseMedian><UniverseHigh>66.385</UniverseHigh><UniverseLow>-73.606</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>54</Rank><UniverseSize>527</UniverseSize><UniverseAverage>0.378</UniverseAverage><UniverseMedian>-0.851</UniverseMedian><UniverseHigh>54.316</UniverseHigh><UniverseLow>-44.339</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-06-30" Period="3M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>4.922554624</Value>
+
+ <Rank Country="France">
+
+
+<Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>120</Rank><UniverseSize>3094</UniverseSize><UniverseAverage>1.89</UniverseAverage><UniverseMedian>1.945</UniverseMedian><UniverseHigh>8.644</UniverseHigh><UniverseLow>-15.497</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>112</Rank><UniverseSize>645</UniverseSize><UniverseAverage>2.403</UniverseAverage><UniverseMedian>2.202</UniverseMedian><UniverseHigh>11.797</UniverseHigh><UniverseLow>-5.872</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2021-08-31" Period="1M">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>0.777335634</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>2705</Rank><UniverseSize>3101</UniverseSize><UniverseAverage>2.149</UniverseAverage><UniverseMedian>2.224</UniverseMedian><UniverseHigh>12.706</UniverseHigh><UniverseLow>-7.037</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>561</Rank><UniverseSize>646</UniverseSize><UniverseAverage>1.99</UniverseAverage><UniverseMedian>1.784</UniverseMedian><UniverseHigh>10.236</UniverseHigh><UniverseLow>-0.718</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return>
+
+ <Return StartDate="2020-12-31" Period="YT">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>9.4304063706</Value>
+
+ <Rank Country="France">
+
+ <Class><Name Id="1004381">Sans classification</Name><Scheme Id="1002067">AMF</Scheme><Rank>409</Rank><UniverseSize>3036</UniverseSize><UniverseAverage>4.25</UniverseAverage><UniverseMedian>4.371</UniverseMedian><UniverseHigh>34.963</UniverseHigh><UniverseLow>-34.522</UniverseLow></Class>
+
+ <Class><Name Id="1006075">Equity Europe Sm&amp;Mid Cap</Name><Scheme Id="1006052">Lipper Global</Scheme><Rank>130</Rank><UniverseSize>635</UniverseSize><UniverseAverage>4.865</UniverseAverage><UniverseMedian>3.898</UniverseMedian><UniverseHigh>23.248</UniverseHigh><UniverseLow>-11.021</UniverseLow></Class>
+
+ </Rank>
+
+ </ReturnByCurrency>
+
+ </Return></Returns>
+
+ <Returns Type="PriceChange" EndDate="2021-10-15" Alignment="PreviousDay">
+
+ <Return StartDate="2021-10-14" Period="1D">
+
+ <ReturnByCurrency Currency="EUR">
+
+ <Value>0.0</Value>
+
+ </ReturnByCurrency></Return></Returns>
+
+ <RollingPerformance Series="CalendarYear">
+
+ <Return Currency="GBP" StartDate="2018-12-31" EndDate="2019-12-31">20.5293254916</Return>
+
+ <Return Currency="GBP" StartDate="2019-12-31" EndDate="2020-12-31">30.6096077078</Return>
+
+ <Return Currency="USD" StartDate="2018-12-31" EndDate="2019-12-31">25.3699982</Return>
+
+ <Return Currency="USD" StartDate="2019-12-31" EndDate="2020-12-31">34.7586292</Return>
+
+ <Return Currency="CHF" StartDate="2018-12-31" EndDate="2019-12-31">23.1549620491</Return>
+
+ <Return Currency="CHF" StartDate="2019-12-31" EndDate="2020-12-31">23.0396336242</Return>
+
+ <Return Currency="JPY" StartDate="2018-12-31" EndDate="2019-12-31">24.1816174478</Return>
+
+ <Return Currency="JPY" StartDate="2019-12-31" EndDate="2020-12-31">28.0432372886</Return>
+
+ <Return Currency="EUR" StartDate="2018-12-31" EndDate="2019-12-31">27.6803941535</Return>
+
+ <Return Currency="EUR" StartDate="2019-12-31" EndDate="2020-12-31">23.6560883185</Return>
+
+ </RollingPerformance>
+
+ <RollingPerformance Series="Monthly">
+
+ <Return Currency="GBP" StartDate="2018-02-14" EndDate="2018-02-28">-0.5943687145</Return>
+
+ <Return Currency="GBP" StartDate="2018-02-28" EndDate="2018-03-31">-3.7287185621</Return>
+
+ <Return Currency="GBP" StartDate="2018-03-31" EndDate="2018-04-30">3.663413992</Return>
+
+ <Return Currency="GBP" StartDate="2018-04-30" EndDate="2018-05-31">1.0055881137</Return>
+
+ <Return Currency="GBP" StartDate="2018-05-31" EndDate="2018-06-30">0.2881415438</Return>
+
+ <Return Currency="GBP" StartDate="2018-06-30" EndDate="2018-07-31">1.312320084</Return>
+
+ <Return Currency="GBP" StartDate="2018-07-31" EndDate="2018-08-31">2.5431176931</Return>
+
+ <Return Currency="GBP" StartDate="2018-08-31" EndDate="2018-09-30">-3.6301677465</Return>
+
+ <Return Currency="GBP" StartDate="2018-09-30" EndDate="2018-10-31">-10.3703787928</Return>
+
+ <Return Currency="GBP" StartDate="2018-10-31" EndDate="2018-11-30">-4.4724415804</Return>
+
+ <Return Currency="GBP" StartDate="2018-11-30" EndDate="2018-12-31">-4.071940458</Return>
+
+ <Return Currency="GBP" StartDate="2018-12-31" EndDate="2019-01-31">4.3097631423</Return>
+
+ <Return Currency="GBP" StartDate="2019-01-31" EndDate="2019-02-28">-0.7868269567</Return>
+
+ <Return Currency="GBP" StartDate="2019-02-28" EndDate="2019-03-31">2.1450670236</Return>
+
+ <Return Currency="GBP" StartDate="2019-03-31" EndDate="2019-04-30">4.3879712472</Return>
+
+ <Return Currency="GBP" StartDate="2019-04-30" EndDate="2019-05-31">0.5432040976</Return>
+
+ <Return Currency="GBP" StartDate="2019-05-31" EndDate="2019-06-30">4.7371842874</Return>
+
+ <Return Currency="GBP" StartDate="2019-06-30" EndDate="2019-07-31">1.0486370257</Return>
+
+ <Return Currency="GBP" StartDate="2019-07-31" EndDate="2019-08-31">-2.3119044361</Return>
+
+ <Return Currency="GBP" StartDate="2019-08-31" EndDate="2019-09-30">-0.9949349643</Return>
+
+ <Return Currency="GBP" StartDate="2019-09-30" EndDate="2019-10-31">-1.9571381026</Return>
+
+ <Return Currency="GBP" StartDate="2019-10-31" EndDate="2019-11-30">4.7840271934</Return>
+
+ <Return Currency="GBP" StartDate="2019-11-30" EndDate="2019-12-31">3.308575861</Return>
+
+ <Return Currency="GBP" StartDate="2019-12-31" EndDate="2020-01-31">1.3547098714</Return>
+
+ <Return Currency="GBP" StartDate="2020-01-31" EndDate="2020-02-29">-5.0429206553</Return>
+
+ <Return Currency="GBP" StartDate="2020-02-29" EndDate="2020-03-31">-13.3195389635</Return>
+
+ <Return Currency="GBP" StartDate="2020-03-31" EndDate="2020-04-30">9.3558755198</Return>
+
+ <Return Currency="GBP" StartDate="2020-04-30" EndDate="2020-05-31">9.808792227</Return>
+
+ <Return Currency="GBP" StartDate="2020-05-31" EndDate="2020-06-30">1.665403864</Return>
+
+ <Return Currency="GBP" StartDate="2020-06-30" EndDate="2020-07-31">4.1367320438</Return>
+
+ <Return Currency="GBP" StartDate="2020-07-31" EndDate="2020-08-31">7.1919212165</Return>
+
+ <Return Currency="GBP" StartDate="2020-08-31" EndDate="2020-09-30">2.3652483807</Return>
+
+ <Return Currency="GBP" StartDate="2020-09-30" EndDate="2020-10-31">-4.2318221421</Return>
+
+ <Return Currency="GBP" StartDate="2020-10-31" EndDate="2020-11-30">7.1707336589</Return>
+
+ <Return Currency="GBP" StartDate="2020-11-30" EndDate="2020-12-31">9.3394842069</Return>
+
+ <Return Currency="GBP" StartDate="2020-12-31" EndDate="2021-01-31">-0.3988340235</Return>
+
+ <Return Currency="GBP" StartDate="2021-01-31" EndDate="2021-02-28">0.7469515529</Return>
+
+ <Return Currency="GBP" StartDate="2021-02-28" EndDate="2021-03-31">-0.1168986477</Return>
+
+ <Return Currency="GBP" StartDate="2021-03-31" EndDate="2021-04-30">8.9944802824</Return>
+
+ <Return Currency="GBP" StartDate="2021-04-30" EndDate="2021-05-31">1.0697146579</Return>
+
+ <Return Currency="GBP" StartDate="2021-05-31" EndDate="2021-06-30">1.2725058645</Return>
+
+ <Return Currency="GBP" StartDate="2021-06-30" EndDate="2021-07-31">5.9034647981</Return>
+
+ <Return Currency="GBP" StartDate="2021-07-31" EndDate="2021-08-31">4.9983676581</Return>
+
+ <Return Currency="GBP" StartDate="2021-08-31" EndDate="2021-09-30">-5.3151777123</Return>
+
+ <Return Currency="USD" StartDate="2018-02-14" EndDate="2018-02-28">-1.9148858</Return>
+
+ <Return Currency="USD" StartDate="2018-02-28" EndDate="2018-03-31">-1.9854475</Return>
+
+ <Return Currency="USD" StartDate="2018-03-31" EndDate="2018-04-30">1.7827196</Return>
+
+ <Return Currency="USD" StartDate="2018-04-30" EndDate="2018-05-31">-2.4190698</Return>
+
+ <Return Currency="USD" StartDate="2018-05-31" EndDate="2018-06-30">-0.4956853</Return>
+
+ <Return Currency="USD" StartDate="2018-06-30" EndDate="2018-07-31">0.6600511</Return>
+
+ <Return Currency="USD" StartDate="2018-07-31" EndDate="2018-08-31">1.6050501</Return>
+
+ <Return Currency="USD" StartDate="2018-08-31" EndDate="2018-09-30">-3.3113528</Return>
+
+ <Return Currency="USD" StartDate="2018-09-30" EndDate="2018-10-31">-12.1780181</Return>
+
+ <Return Currency="USD" StartDate="2018-10-31" EndDate="2018-11-30">-4.6107551</Return>
+
+ <Return Currency="USD" StartDate="2018-11-30" EndDate="2018-12-31">-4.2448655</Return>
+
+ <Return Currency="USD" StartDate="2018-12-31" EndDate="2019-01-31">7.7373485</Return>
+
+ <Return Currency="USD" StartDate="2019-01-31" EndDate="2019-02-28">0.3180897</Return>
+
+ <Return Currency="USD" StartDate="2019-02-28" EndDate="2019-03-31">0.0677601</Return>
+
+ <Return Currency="USD" StartDate="2019-03-31" EndDate="2019-04-30">4.4360366</Return>
+
+ <Return Currency="USD" StartDate="2019-04-30" EndDate="2019-05-31">-2.792417</Return>
+
+ <Return Currency="USD" StartDate="2019-05-31" EndDate="2019-06-30">5.7592945</Return>
+
+ <Return Currency="USD" StartDate="2019-06-30" EndDate="2019-07-31">-2.7822728</Return>
+
+ <Return Currency="USD" StartDate="2019-07-31" EndDate="2019-08-31">-2.8384632</Return>
+
+ <Return Currency="USD" StartDate="2019-08-31" EndDate="2019-09-30">0.17978</Return>
+
+ <Return Currency="USD" StartDate="2019-09-30" EndDate="2019-10-31">2.9517702</Return>
+
+ <Return Currency="USD" StartDate="2019-10-31" EndDate="2019-11-30">4.7435284</Return>
+
+ <Return Currency="USD" StartDate="2019-11-30" EndDate="2019-12-31">5.8044422</Return>
+
+ <Return Currency="USD" StartDate="2019-12-31" EndDate="2020-01-31">0.8535813</Return>
+
+ <Return Currency="USD" StartDate="2020-01-31" EndDate="2020-02-29">-7.9891683</Return>
+
+ <Return Currency="USD" StartDate="2020-02-29" EndDate="2020-03-31">-15.8541944</Return>
+
+ <Return Currency="USD" StartDate="2020-03-31" EndDate="2020-04-30">11.2432128</Return>
+
+ <Return Currency="USD" StartDate="2020-04-30" EndDate="2020-05-31">7.6280253</Return>
+
+ <Return Currency="USD" StartDate="2020-05-31" EndDate="2020-06-30">1.6078458</Return>
+
+ <Return Currency="USD" StartDate="2020-06-30" EndDate="2020-07-31">10.6178804</Return>
+
+ <Return Currency="USD" StartDate="2020-07-31" EndDate="2020-08-31">9.3520959</Return>
+
+ <Return Currency="USD" StartDate="2020-08-31" EndDate="2020-09-30">-1.1630093</Return>
+
+ <Return Currency="USD" StartDate="2020-09-30" EndDate="2020-10-31">-4.2169999</Return>
+
+ <Return Currency="USD" StartDate="2020-10-31" EndDate="2020-11-30">10.6560636</Return>
+
+ <Return Currency="USD" StartDate="2020-11-30" EndDate="2020-12-31">11.952058</Return>
+
+ <Return Currency="USD" StartDate="2020-12-31" EndDate="2021-01-31">0.0565768</Return>
+
+ <Return Currency="USD" StartDate="2021-01-31" EndDate="2021-02-28">2.5737757</Return>
+
+ <Return Currency="USD" StartDate="2021-02-28" EndDate="2021-03-31">-1.4314285</Return>
+
+ <Return Currency="USD" StartDate="2021-03-31" EndDate="2021-04-30">9.3776214</Return>
+
+ <Return Currency="USD" StartDate="2021-04-30" EndDate="2021-05-31">3.767001</Return>
+
+ <Return Currency="USD" StartDate="2021-05-31" EndDate="2021-06-30">-1.5807998</Return>
+
+ <Return Currency="USD" StartDate="2021-06-30" EndDate="2021-07-31">6.5857441</Return>
+
+ <Return Currency="USD" StartDate="2021-07-31" EndDate="2021-08-31">3.9335466</Return>
+
+ <Return Currency="USD" StartDate="2021-08-31" EndDate="2021-09-30">-7.2346703</Return>
+
+ <Return Currency="CHF" StartDate="2018-02-14" EndDate="2018-02-28">-0.4223045378</Return>
+
+ <Return Currency="CHF" StartDate="2018-02-28" EndDate="2018-03-31">-0.6863953904</Return>
+
+ <Return Currency="CHF" StartDate="2018-03-31" EndDate="2018-04-30">5.2222669607</Return>
+
+ <Return Currency="CHF" StartDate="2018-04-30" EndDate="2018-05-31">-3.0946338393</Return>
+
+ <Return Currency="CHF" StartDate="2018-05-31" EndDate="2018-06-30">0.5066342489</Return>
+
+ <Return Currency="CHF" StartDate="2018-06-30" EndDate="2018-07-31">0.3540547985</Return>
+
+ <Return Currency="CHF" StartDate="2018-07-31" EndDate="2018-08-31">-0.7378465727</Return>
+
+ <Return Currency="CHF" StartDate="2018-08-31" EndDate="2018-09-30">-2.3460633968</Return>
+
+ <Return Currency="CHF" StartDate="2018-09-30" EndDate="2018-10-31">-9.5611864146</Return>
+
+ <Return Currency="CHF" StartDate="2018-10-31" EndDate="2018-11-30">-5.2268206602</Return>
+
+ <Return Currency="CHF" StartDate="2018-11-30" EndDate="2018-12-31">-5.5501911473</Return>
+
+ <Return Currency="CHF" StartDate="2018-12-31" EndDate="2019-01-31">8.4265019404</Return>
+
+ <Return Currency="CHF" StartDate="2019-01-31" EndDate="2019-02-28">0.7298099259</Return>
+
+ <Return Currency="CHF" StartDate="2019-02-28" EndDate="2019-03-31">0.0404871304</Return>
+
+ <Return Currency="CHF" StartDate="2019-03-31" EndDate="2019-04-30">6.8575112116</Return>
+
+ <Return Currency="CHF" StartDate="2019-04-30" EndDate="2019-05-31">-4.0472334434</Return>
+
+ <Return Currency="CHF" StartDate="2019-05-31" EndDate="2019-06-30">2.5189324611</Return>
+
+ <Return Currency="CHF" StartDate="2019-06-30" EndDate="2019-07-31">-1.2884613036</Return>
+
+ <Return Currency="CHF" StartDate="2019-07-31" EndDate="2019-08-31">-2.8921378323</Return>
+
+ <Return Currency="CHF" StartDate="2019-08-31" EndDate="2019-09-30">0.9605242646</Return>
+
+ <Return Currency="CHF" StartDate="2019-09-30" EndDate="2019-10-31">1.8766489721</Return>
+
+ <Return Currency="CHF" StartDate="2019-10-31" EndDate="2019-11-30">6.0806412057</Return>
+
+ <Return Currency="CHF" StartDate="2019-11-30" EndDate="2019-12-31">2.5253652369</Return>
+
+ <Return Currency="CHF" StartDate="2019-12-31" EndDate="2020-01-31">0.4461245472</Return>
+
+ <Return Currency="CHF" StartDate="2020-01-31" EndDate="2020-02-29">-7.6570661857</Return>
+
+ <Return Currency="CHF" StartDate="2020-02-29" EndDate="2020-03-31">-15.8890718617</Return>
+
+ <Return Currency="CHF" StartDate="2020-03-31" EndDate="2020-04-30">10.9692723399</Return>
+
+ <Return Currency="CHF" StartDate="2020-04-30" EndDate="2020-05-31">7.1298719286</Return>
+
+ <Return Currency="CHF" StartDate="2020-05-31" EndDate="2020-06-30">0.218784195</Return>
+
+ <Return Currency="CHF" StartDate="2020-06-30" EndDate="2020-07-31">6.2047028542</Return>
+
+ <Return Currency="CHF" StartDate="2020-07-31" EndDate="2020-08-31">8.2377592129</Return>
+
+ <Return Currency="CHF" StartDate="2020-08-31" EndDate="2020-09-30">0.8370288583</Return>
+
+ <Return Currency="CHF" StartDate="2020-09-30" EndDate="2020-10-31">-4.4414588233</Return>
+
+ <Return Currency="CHF" StartDate="2020-10-31" EndDate="2020-11-30">9.3003995795</Return>
+
+ <Return Currency="CHF" StartDate="2020-11-30" EndDate="2020-12-31">9.3078126254</Return>
+
+ <Return Currency="CHF" StartDate="2020-12-31" EndDate="2021-01-31">0.6933837299</Return>
+
+ <Return Currency="CHF" StartDate="2021-01-31" EndDate="2021-02-28">4.3882140065</Return>
+
+ <Return Currency="CHF" StartDate="2021-02-28" EndDate="2021-03-31">2.4715184877</Return>
+
+ <Return Currency="CHF" StartDate="2021-03-31" EndDate="2021-04-30">5.9936725515</Return>
+
+ <Return Currency="CHF" StartDate="2021-04-30" EndDate="2021-05-31">2.322330703</Return>
+
+ <Return Currency="CHF" StartDate="2021-05-31" EndDate="2021-06-30">1.1576263986</Return>
+
+ <Return Currency="CHF" StartDate="2021-06-30" EndDate="2021-07-31">4.5060212514</Return>
+
+ <Return Currency="CHF" StartDate="2021-07-31" EndDate="2021-08-31">5.0483638176</Return>
+
+ <Return Currency="CHF" StartDate="2021-08-31" EndDate="2021-09-30">-5.5329869159</Return>
+
+ <Return Currency="JPY" StartDate="2018-02-14" EndDate="2018-02-28">-2.02966853</Return>
+
+ <Return Currency="JPY" StartDate="2018-02-28" EndDate="2018-03-31">-2.3114990635</Return>
+
+ <Return Currency="JPY" StartDate="2018-03-31" EndDate="2018-04-30">4.7256308791</Return>
+
+ <Return Currency="JPY" StartDate="2018-04-30" EndDate="2018-05-31">-3.1146074286</Return>
+
+ <Return Currency="JPY" StartDate="2018-05-31" EndDate="2018-06-30">1.4459361321</Return>
+
+ <Return Currency="JPY" StartDate="2018-06-30" EndDate="2018-07-31">1.7278547487</Return>
+
+ <Return Currency="JPY" StartDate="2018-07-31" EndDate="2018-08-31">0.647465196</Return>
+
+ <Return Currency="JPY" StartDate="2018-08-31" EndDate="2018-09-30">-0.957021602</Return>
+
+ <Return Currency="JPY" StartDate="2018-09-30" EndDate="2018-10-31">-12.7424453798</Return>
+
+ <Return Currency="JPY" StartDate="2018-10-31" EndDate="2018-11-30">-4.0233277635</Return>
+
+ <Return Currency="JPY" StartDate="2018-11-30" EndDate="2018-12-31">-7.4788535954</Return>
+
+ <Return Currency="JPY" StartDate="2018-12-31" EndDate="2019-01-31">6.8682634885</Return>
+
+ <Return Currency="JPY" StartDate="2019-01-31" EndDate="2019-02-28">2.6133688916</Return>
+
+ <Return Currency="JPY" StartDate="2019-02-28" EndDate="2019-03-31">-0.5030587135</Return>
+
+ <Return Currency="JPY" StartDate="2019-03-31" EndDate="2019-04-30">5.0870597708</Return>
+
+ <Return Currency="JPY" StartDate="2019-04-30" EndDate="2019-05-31">-5.2362178727</Return>
+
+ <Return Currency="JPY" StartDate="2019-05-31" EndDate="2019-06-30">4.9459349759</Return>
+
+ <Return Currency="JPY" StartDate="2019-06-30" EndDate="2019-07-31">-2.0287929253</Return>
+
+ <Return Currency="JPY" StartDate="2019-07-31" EndDate="2019-08-31">-5.0130411667</Return>
+
+ <Return Currency="JPY" StartDate="2019-08-31" EndDate="2019-09-30">2.0012898488</Return>
+
+ <Return Currency="JPY" StartDate="2019-09-30" EndDate="2019-10-31">2.9803507403</Return>
+
+ <Return Currency="JPY" StartDate="2019-10-31" EndDate="2019-11-30">6.1048670712</Return>
+
+ <Return Currency="JPY" StartDate="2019-11-30" EndDate="2019-12-31">4.9977173743</Return>
+
+ <Return Currency="JPY" StartDate="2019-12-31" EndDate="2020-01-31">0.5844525212</Return>
+
+ <Return Currency="JPY" StartDate="2020-01-31" EndDate="2020-02-29">-8.4306469785</Return>
+
+ <Return Currency="JPY" StartDate="2020-02-29" EndDate="2020-03-31">-15.7839776373</Return>
+
+ <Return Currency="JPY" StartDate="2020-03-31" EndDate="2020-04-30">10.1921363536</Return>
+
+ <Return Currency="JPY" StartDate="2020-04-30" EndDate="2020-05-31">8.4332356854</Return>
+
+ <Return Currency="JPY" StartDate="2020-05-31" EndDate="2020-06-30">1.7492953879</Return>
+
+ <Return Currency="JPY" StartDate="2020-06-30" EndDate="2020-07-31">8.4082766293</Return>
+
+ <Return Currency="JPY" StartDate="2020-07-31" EndDate="2020-08-31">9.6779433815</Return>
+
+ <Return Currency="JPY" StartDate="2020-08-31" EndDate="2020-09-30">-1.6430252992</Return>
+
+ <Return Currency="JPY" StartDate="2020-09-30" EndDate="2020-10-31">-5.1155512551</Return>
+
+ <Return Currency="JPY" StartDate="2020-10-31" EndDate="2020-11-30">10.3755047078</Return>
+
+ <Return Currency="JPY" StartDate="2020-11-30" EndDate="2020-12-31">10.8462547959</Return>
+
+ <Return Currency="JPY" StartDate="2020-12-31" EndDate="2021-01-31">1.4617827499</Return>
+
+ <Return Currency="JPY" StartDate="2021-01-31" EndDate="2021-02-28">4.3813947704</Return>
+
+ <Return Currency="JPY" StartDate="2021-02-28" EndDate="2021-03-31">2.2322968758</Return>
+
+ <Return Currency="JPY" StartDate="2021-03-31" EndDate="2021-04-30">8.1947323178</Return>
+
+ <Return Currency="JPY" StartDate="2021-04-30" EndDate="2021-05-31">3.8524720693</Return>
+
+ <Return Currency="JPY" StartDate="2021-05-31" EndDate="2021-06-30">-0.1458244493</Return>
+
+ <Return Currency="JPY" StartDate="2021-06-30" EndDate="2021-07-31">5.3949651873</Return>
+
+ <Return Currency="JPY" StartDate="2021-07-31" EndDate="2021-08-31">4.0376740671</Return>
+
+ <Return Currency="JPY" StartDate="2021-08-31" EndDate="2021-09-30">-5.786516544</Return>
+
+ <Return Currency="EUR" StartDate="2018-02-14" EndDate="2018-02-28">-0.2189891884</Return>
+
+ <Return Currency="EUR" StartDate="2018-02-28" EndDate="2018-03-31">-2.8041471672</Return>
+
+ <Return Currency="EUR" StartDate="2018-03-31" EndDate="2018-04-30">3.6088767779</Return>
+
+ <Return Currency="EUR" StartDate="2018-04-30" EndDate="2018-05-31">1.0011707691</Return>
+
+ <Return Currency="EUR" StartDate="2018-05-31" EndDate="2018-06-30">-0.5212383427</Return>
+
+ <Return Currency="EUR" StartDate="2018-06-30" EndDate="2018-07-31">0.4476988841</Return>
+
+ <Return Currency="EUR" StartDate="2018-07-31" EndDate="2018-08-31">2.1772607353</Return>
+
+ <Return Currency="EUR" StartDate="2018-08-31" EndDate="2018-09-30">-3.1470838088</Return>
+
+ <Return Currency="EUR" StartDate="2018-09-30" EndDate="2018-10-31">-9.9711997405</Return>
+
+ <Return Currency="EUR" StartDate="2018-10-31" EndDate="2018-11-30">-4.5444470444</Return>
+
+ <Return Currency="EUR" StartDate="2018-11-30" EndDate="2018-12-31">-5.1573457772</Return>
+
+ <Return Currency="EUR" StartDate="2018-12-31" EndDate="2019-01-31">7.3339204927</Return>
+
+ <Return Currency="EUR" StartDate="2019-01-31" EndDate="2019-02-28">1.0911532515</Return>
+
+ <Return Currency="EUR" StartDate="2019-02-28" EndDate="2019-03-31">1.4804834031</Return>
+
+ <Return Currency="EUR" StartDate="2019-03-31" EndDate="2019-04-30">4.6353392384</Return>
+
+ <Return Currency="EUR" StartDate="2019-04-30" EndDate="2019-05-31">-2.2399377772</Return>
+
+ <Return Currency="EUR" StartDate="2019-05-31" EndDate="2019-06-30">3.4916966966</Return>
+
+ <Return Currency="EUR" StartDate="2019-06-30" EndDate="2019-07-31">-0.565280692</Return>
+
+ <Return Currency="EUR" StartDate="2019-07-31" EndDate="2019-08-31">-1.7656233658</Return>
+
+ <Return Currency="EUR" StartDate="2019-08-31" EndDate="2019-09-30">1.193938491</Return>
+
+ <Return Currency="EUR" StartDate="2019-09-30" EndDate="2019-10-31">0.6015990105</Return>
+
+ <Return Currency="EUR" StartDate="2019-10-31" EndDate="2019-11-30">5.9810580551</Return>
+
+ <Return Currency="EUR" StartDate="2019-11-30" EndDate="2019-12-31">3.9338466644</Return>
+
+ <Return Currency="EUR" StartDate="2019-12-31" EndDate="2020-01-31">2.1533905007</Return>
+
+ <Return Currency="EUR" StartDate="2020-01-31" EndDate="2020-02-29">-7.1703805336</Return>
+
+ <Return Currency="EUR" StartDate="2020-02-29" EndDate="2020-03-31">-15.7644934088</Return>
+
+ <Return Currency="EUR" StartDate="2020-03-31" EndDate="2020-04-30">11.441282603</Return>
+
+ <Return Currency="EUR" StartDate="2020-04-30" EndDate="2020-05-31">5.9803555752</Return>
+
+ <Return Currency="EUR" StartDate="2020-05-31" EndDate="2020-06-30">0.62721451</Return>
+
+ <Return Currency="EUR" StartDate="2020-06-30" EndDate="2020-07-31">5.0691370453</Return>
+
+ <Return Currency="EUR" StartDate="2020-07-31" EndDate="2020-08-31">8.1190345329</Return>
+
+ <Return Currency="EUR" StartDate="2020-08-31" EndDate="2020-09-30">0.8017082314</Return>
+
+ <Return Currency="EUR" StartDate="2020-09-30" EndDate="2020-10-31">-3.5759503444</Return>
+
+ <Return Currency="EUR" StartDate="2020-10-31" EndDate="2020-11-30">7.7596950439</Return>
+
+ <Return Currency="EUR" StartDate="2020-11-30" EndDate="2020-12-31">9.4472339383</Return>
+
+ <Return Currency="EUR" StartDate="2020-12-31" EndDate="2021-01-31">0.7690734919</Return>
+
+ <Return Currency="EUR" StartDate="2021-01-31" EndDate="2021-02-28">2.6677616497</Return>
+
+ <Return Currency="EUR" StartDate="2021-02-28" EndDate="2021-03-31">1.7951751333</Return>
+
+ <Return Currency="EUR" StartDate="2021-03-31" EndDate="2021-04-30">6.789336252</Return>
+
+ <Return Currency="EUR" StartDate="2021-04-30" EndDate="2021-05-31">2.1637587252</Return>
+
+ <Return Currency="EUR" StartDate="2021-05-31" EndDate="2021-06-30">1.472852382</Return>
+
+ <Return Currency="EUR" StartDate="2021-06-30" EndDate="2021-07-31">6.5943898318</Return>
+
+ <Return Currency="EUR" StartDate="2021-07-31" EndDate="2021-08-31">4.4028611242</Return>
+
+ <Return Currency="EUR" StartDate="2021-08-31" EndDate="2021-09-30">-5.5100944528</Return>
+
+ </RollingPerformance>
+
+ <RollingPerformance Series="Daily">
+
+ <Return Currency="GBP" StartDate="2021-10-01" EndDate="2021-10-04">-1.0746861745</Return>
+
+ <Return Currency="GBP" StartDate="2021-10-04" EndDate="2021-10-05">0.8106598975</Return>
+
+ <Return Currency="GBP" StartDate="2021-10-05" EndDate="2021-10-06">-1.2959508439</Return>
+
+ <Return Currency="GBP" StartDate="2021-10-06" EndDate="2021-10-07">0.5449584628</Return>
+
+ <Return Currency="GBP" StartDate="2021-10-07" EndDate="2021-10-08">-0.3388528937</Return>
+
+ <Return Currency="GBP" StartDate="2021-10-08" EndDate="2021-10-11">-0.3612457165</Return>
+
+ <Return Currency="GBP" StartDate="2021-10-11" EndDate="2021-10-12">0.7750987238</Return>
+
+ <Return Currency="GBP" StartDate="2021-10-12" EndDate="2021-10-13">2.0467837146</Return>
+
+ <Return Currency="GBP" StartDate="2021-10-13" EndDate="2021-10-14">-0.2244724039</Return>
+
+ <Return Currency="GBP" StartDate="2021-10-14" EndDate="2021-10-15">-0.4888893716</Return>
+
+ <Return Currency="USD" StartDate="2021-10-01" EndDate="2021-10-04">-0.6034126907</Return>
+
+ <Return Currency="USD" StartDate="2021-10-04" EndDate="2021-10-05">0.9588727133</Return>
+
+ <Return Currency="USD" StartDate="2021-10-05" EndDate="2021-10-06">-1.6980544159</Return>
+
+ <Return Currency="USD" StartDate="2021-10-06" EndDate="2021-10-07">0.9488282777</Return>
+
+ <Return Currency="USD" StartDate="2021-10-07" EndDate="2021-10-08">-0.2291107412</Return>
+
+ <Return Currency="USD" StartDate="2021-10-08" EndDate="2021-10-11">-0.4416190689</Return>
+
+ <Return Currency="USD" StartDate="2021-10-11" EndDate="2021-10-12">0.5976095264</Return>
+
+ <Return Currency="USD" StartDate="2021-10-12" EndDate="2021-10-13">2.2793450956</Return>
+
+ <Return Currency="USD" StartDate="2021-10-13" EndDate="2021-10-14">0.1304688307</Return>
+
+ <Return Currency="USD" StartDate="2021-10-14" EndDate="2021-10-15">0.1402388521</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-01" EndDate="2021-10-04">-1.2515000459</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-04" EndDate="2021-10-05">1.4805139561</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-05" EndDate="2021-10-06">-1.7719121134</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-06" EndDate="2021-10-07">0.8843896873</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-07" EndDate="2021-10-08">-0.2915118382</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-08" EndDate="2021-10-11">-0.4519097606</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-11" EndDate="2021-10-12">0.870872823</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-12" EndDate="2021-10-13">1.9660366268</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-13" EndDate="2021-10-14">-0.1612570137</Return>
+
+ <Return Currency="CHF" StartDate="2021-10-14" EndDate="2021-10-15">0.0741814396</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-01" EndDate="2021-10-04">-0.7019379602</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-04" EndDate="2021-10-05">1.5827471877</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-05" EndDate="2021-10-06">-1.9624549693</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-06" EndDate="2021-10-07">1.207457417</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-07" EndDate="2021-10-08">0.2315968408</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-08" EndDate="2021-10-11">0.6691194225</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-11" EndDate="2021-10-12">0.8817636378</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-12" EndDate="2021-10-13">2.0588041086</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-13" EndDate="2021-10-14">0.4307409407</Return>
+
+ <Return Currency="JPY" StartDate="2021-10-14" EndDate="2021-10-15">0.4573079358</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-01" EndDate="2021-10-04">-0.8374456</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-04" EndDate="2021-10-05">1.2284479</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-05" EndDate="2021-10-06">-1.2665497</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-06" EndDate="2021-10-07">0.7887252</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-07" EndDate="2021-10-08">-0.3430804</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-08" EndDate="2021-10-11">-0.4288951</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-11" EndDate="2021-10-12">0.800772</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-12" EndDate="2021-10-13">2.0554502</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-13" EndDate="2021-10-14">0.0</Return>
+
+ <Return Currency="EUR" StartDate="2021-10-14" EndDate="2021-10-15">0.0</Return>
+
+ </RollingPerformance>
+
+ <BestWorstPerformance>
+
+ <Period Timeframe="3M" Currency="GBP"><StartDate>2018-08-31</StartDate><EndDate>2021-08-31</EndDate><Best StartDate="2020-03-31" EndDate="2020-06-30">22.0822183</Best><Worst StartDate="2018-09-30" EndDate="2018-12-31">-17.865445</Worst></Period>
+
+ <Period Timeframe="3M" Currency="GBP"><StartDate>2018-09-30</StartDate><EndDate>2021-09-30</EndDate><Best StartDate="2020-03-31" EndDate="2020-06-30">22.0822183</Best><Worst StartDate="2018-09-30" EndDate="2018-12-31">-17.865445</Worst></Period>
+
+ <Period Timeframe="3M" Currency="USD"><StartDate>2018-08-31</StartDate><EndDate>2021-08-31</EndDate><Best StartDate="2020-10-31" EndDate="2021-01-31">23.9518289</Best><Worst StartDate="2019-12-31" EndDate="2020-03-31">-21.915874</Worst></Period>
+
+ <Period Timeframe="3M" Currency="USD"><StartDate>2018-09-30</StartDate><EndDate>2021-09-30</EndDate><Best StartDate="2020-10-31" EndDate="2021-01-31">23.9518289</Best><Worst StartDate="2019-12-31" EndDate="2020-03-31">-21.915874</Worst></Period>
+
+ <Period Timeframe="3M" Currency="CHF"><StartDate>2018-08-31</StartDate><EndDate>2021-08-31</EndDate><Best StartDate="2020-10-31" EndDate="2021-01-31">20.3022969</Best><Worst StartDate="2019-12-31" EndDate="2020-03-31">-21.9829923</Worst></Period>
+
+ <Period Timeframe="3M" Currency="CHF"><StartDate>2018-09-30</StartDate><EndDate>2021-09-30</EndDate><Best StartDate="2020-10-31" EndDate="2021-01-31">20.3022969</Best><Worst StartDate="2019-12-31" EndDate="2020-03-31">-21.9829923</Worst></Period>
+
+ <Period Timeframe="3M" Currency="JPY"><StartDate>2018-08-31</StartDate><EndDate>2021-08-31</EndDate><Best StartDate="2020-10-31" EndDate="2021-01-31">24.1355623</Best><Worst StartDate="2018-09-30" EndDate="2018-12-31">-22.5164106</Worst></Period>
+
+ <Period Timeframe="3M" Currency="JPY"><StartDate>2018-09-30</StartDate><EndDate>2021-09-30</EndDate><Best StartDate="2020-10-31" EndDate="2021-01-31">24.1355623</Best><Worst StartDate="2018-09-30" EndDate="2018-12-31">-22.5164106</Worst></Period>
+
+ <Period Timeframe="3M" Currency="EUR"><StartDate>2018-08-31</StartDate><EndDate>2021-08-31</EndDate><Best StartDate="2020-10-31" EndDate="2021-01-31">18.8470532</Best><Worst StartDate="2019-12-31" EndDate="2020-03-31">-20.1206434</Worst></Period>
+
+ <Period Timeframe="3M" Currency="EUR"><StartDate>2018-09-30</StartDate><EndDate>2021-09-30</EndDate><Best StartDate="2020-10-31" EndDate="2021-01-31">18.8470532</Best><Worst StartDate="2019-12-31" EndDate="2020-03-31">-20.1206434</Worst></Period>
+
+ </BestWorstPerformance>
+
+ <Statistics Alignment="PreviousMonthEnd" EndDate="2021-09-30">
+
+ <CalcSet Type="AdjustedRSquared">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.7406898</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.8528719</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.7406898</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.7406898</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.7406898</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.6007373</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.6007373</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.6007373</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.8528719</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.6007373</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.6007373</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.8528719</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.8528719</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.8528719</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.7406898</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="Alpha">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.0645061</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.5518571</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.5518571</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.5518571</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.5518571</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.5518571</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.8088617</Value></Calc>
+
+
+<Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.8088617</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.8088617</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.8088617</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.8088617</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.0645061</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.0645061</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.0645061</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.0645061</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="AverageLoss">
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">-0.8312034</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">-0.9206577</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">-0.8385589</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">-0.2391244</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">-0.2918025</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">-0.2561053</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">-0.2848322</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">-0.2350134</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">-1.5629096</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">-2.0536467</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">-1.7246278</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">-1.9143628</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">-1.483076</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">-0.7571708</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">-1.2053249</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="AverageReturn">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">1.4314594</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">1.4302775</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">1.3100748</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">1.4801671</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">1.3124461</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">2.8980076</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">3.3107654</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">2.9345752</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">2.8698741</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">2.4527479</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.1192484</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.1169967</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.1020521</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.1258359</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.1093111</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="BearBeta">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.9771263</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">1.5334003</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.9771263</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.9771263</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.9771263</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.7867803</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.7867803</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.7867803</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.7867803</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.7867803</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">1.5334003</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">1.5334003</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">1.5334003</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">1.5334003</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.9771263</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="Beta">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.8585731</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.8585731</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.8585731</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.8585731</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.8585731</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.7261222</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.7261222</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.7261222</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.7261222</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.7261222</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.8148159</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.8148159</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.8148159</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.8148159</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.8148159</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="BullBeta">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.6604574</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.771165</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.6604574</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.6604574</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.6604574</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.4354914</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.4354914</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.4354914</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.4354914</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.4354914</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.771165</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.771165</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.771165</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.771165</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.6604574</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="CoVariance">
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">16.2735537</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">16.2735537</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">16.2735537</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">16.2735537</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.5495188</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.5495188</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.5495188</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.5495188</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.5495188</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">33.5211248</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">33.5211248</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">33.5211248</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">33.5211248</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">33.5211248</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">16.2735537</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="Correlation">
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.8205672</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.8205672</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.8205672</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.8205672</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.862948</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.862948</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.862948</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.862948</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.862948</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.9280513</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.9280513</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.9280513</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.8205672</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.9280513</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.9280513</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="DownsideDeviationPopulation">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.2836227</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">1.5381871</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.2836227</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.2836227</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.2836227</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">2.2868463</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">2.2868463</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">2.2868463</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">2.2868463</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">2.2868463</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">1.5381871</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">1.5381871</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">1.5381871</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">1.5381871</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.2836227</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="InformationRatio">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.1559129</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.1327378</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.1559129</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.1559129</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.1559129</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.0182669</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.0182669</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.0182669</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.0182669</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.0182669</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.1327378</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.1327378</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.1327378</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.1327378</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.1559129</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="MaxGain">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">11.4412773</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">1.4718385</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">10.9692685</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">11.952058</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">9.8087921</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">9.447237</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">10.8462548</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">9.3078124</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">11.952058</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">9.3394748</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">1.4616253</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">1.9012226</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">1.4952797</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">1.946011</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">10.8462548</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="MaxLoss">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">-15.7839777</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">-15.7644968</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">-15.8890695</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">-15.8541944</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">-13.3195391</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">-5.5100908</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">-5.7865166</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">-5.5329785</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">-7.2346703</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">-5.3151741</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">-3.2787795</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">-3.1109951</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">-3.2142228</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">-3.5022679</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">-2.3117788</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="MaximumDrawdown">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">-17.865445</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">-7.3521243</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">-22.3295011</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">-25.3649599</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">-21.8044972</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">-5.3151741</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">-7.2346703</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">-5.5329785</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">-5.7865166</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">-5.5100908</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">-6.8567025</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">-8.9853565</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">-7.5809094</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">-7.5089895</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">-22.5767444</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="PositivePeriods">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">58.778626</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">72.2222222</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">64.1221374</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">61.0687023</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">61.8320611</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">66.6666667</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">66.6666667</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">83.3333333</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">75.0</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">83.3333333</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">63.8888889</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">63.8888889</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">72.2222222</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">63.8888889</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">61.0687023</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="RSquared">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.7446792</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.7446792</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.7446792</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.7446792</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.6733306</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.6733306</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.6733306</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.6733306</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.6733306</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.8612792</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.8612792</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.8612792</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.8612792</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.8612792</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.7446792</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="RelativeAverageReturn">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.3410583</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.3329698</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.3311043</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.3466223</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.3574075</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.0267622</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.009624</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.0067969</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.0275323</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.0397453</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.0556879</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.0553517</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.0556976</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.0560018</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.0554004</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="ReturnRiskRatio">
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.5075934</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.2543585</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.6356807</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.6265385</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.6501175</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.2183622</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.2224265</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.225097</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.2470653</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.1498656</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.1644868</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.122777</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.1224952</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.1268797</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.4760081</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="SemiDeviation">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.8988555</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">1.0938066</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">1.0453598</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">1.1105211</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.9590309</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">4.5322387</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">6.2344072</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">5.1678475</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">6.4719935</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">4.4611446</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">6.1075681</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">7.2348691</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">6.9308601</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">8.6320073</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">6.9778951</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="SemiVariance">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">1.2735342</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.9331839</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">1.2137947</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.8163567</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">48.6910205</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">74.5115506</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">48.0368214</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">52.3433312</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">37.3023884</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">19.9018115</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">41.8866993</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">26.7066481</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">38.8678333</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">20.5411872</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">1.1101662</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="SharpeRatio">
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.6435022</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.6435022</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.6435022</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.6435022</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.1478513</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.1478513</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.1478513</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.1478513</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.1478513</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.2281452</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.2281452</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.2281452</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.6435022</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.2281452</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.2281452</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="Sortino">
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="EUR">0.0604712</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">0.1652456</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">0.1652456</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">0.1652456</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">0.1652456</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">0.1652456</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="GBP">-0.1520892</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="USD">-0.1520892</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="CHF">-0.1520892</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="JPY">-0.1520892</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="EUR">-0.1520892</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">0.4219201</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">0.4219201</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">0.4219201</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">0.4219201</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">0.4219201</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.114453</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.114453</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.114453</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.114453</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.114453</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="GBP">0.0604712</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="USD">0.0604712</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="CHF">0.0604712</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="JPY">0.0604712</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="StandardDeviation">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.765021</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="EUR">1.1767041</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.8331116</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.9221072</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.7957019</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">18.401801</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">22.7788403</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">20.4032863</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">22.6899494</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">19.4950065</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">16.7389242</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">20.8852222</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">15.991781</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">18.3050649</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">15.4418121</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="GBP">0.7659295</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="USD">0.9644602</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="CHF">0.9451213</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="JPY">1.042466</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="EUR">0.8924864</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="GBP">1.014461</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="USD">1.2426762</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="CHF">1.2049726</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="JPY">1.266392</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.8903221</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="TrackingError">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">2.4445906</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">2.8439304</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">2.4445906</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">2.4445906</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">2.4445906</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">2.4445906</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">2.8439304</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">2.8439304</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">2.8439304</Value></Calc>
+
+
+<Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">2.8439304</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.4194123</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.4194123</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.4194123</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.4194123</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.4194123</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="TreynorRatio">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">1.5991389</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.1375964</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">1.5991389</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">1.5991389</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">1.5991389</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">3.8776313</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">3.8776313</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">3.8776313</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">3.8776313</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">3.8776313</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.1375964</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.1375964</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.1375964</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.1375964</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">1.5991389</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="ValueAtRiskNormal">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">-1.3997346</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">-1.2682945</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">-7.8253222</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">-9.3435536</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">-8.3779838</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">-9.3358719</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">-7.4252506</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">-4.4342025</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">-5.3809982</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">-4.6587756</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">-7.0470214</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">-5.4953677</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">-1.1895648</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">-1.1325117</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">-1.3551385</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="ValueAtRiskNormalETL">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">-10.1769181</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">-7.5890568</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">-10.8391415</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">-12.0835821</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">-9.644978</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">-6.5877931</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">-6.2968796</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">-1.7850456</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">-1.6164178</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">-1.7271677</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">-1.4521828</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">-1.5220562</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">-9.5663129</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">-7.5145098</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">-12.0805413</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="ValueAtRiskQuantile">
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">-10.8401953</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">-13.1986741</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">-12.7294432</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">-10.8127471</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">-5.5100908</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">-5.7865166</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">-5.5329785</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">-7.2346703</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">-5.3151741</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">-10.5103676</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">-1.5690132</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">-1.8637876</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">-1.7712098</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">-1.6757486</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">-1.3972281</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="ValueAtRiskQuantileETL">
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">-2.7007324</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">-2.2154786</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">-2.5684773</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">-2.5850027</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">-24.9786668</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">-22.5103781</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">-26.6742258</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">-24.8228858</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">-27.0028555</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">-2.4049616</Value></Calc>
+
+ </CalcSet>
+
+ <CalcSet Type="Variance">
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="EUR">19.8707969</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="GBP">28.2188567</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="USD">43.2396306</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="CHF">34.6911742</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="JPY">42.902817</Value></Calc>
+
+ <Calc Period="3Y" StartDate="2018-09-30"><Value Currency="EUR">31.6712731</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="GBP">0.5852572</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="USD">0.7926735</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="CHF">0.6940749</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="JPY">0.8502816</Value></Calc>
+
+ <Calc Period="6M" StartDate="2021-03-31"><Value Currency="EUR">0.6331415</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="GBP">0.5866479</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="USD">0.9301836</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="CHF">0.8932543</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="JPY">1.0867353</Value></Calc>
+
+ <Calc Period="3M" StartDate="2021-06-30"><Value Currency="EUR">0.7965319</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="GBP">1.0291311</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="USD">1.5442442</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="CHF">1.451959</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="JPY">1.6037487</Value></Calc>
+
+ <Calc Period="1M" StartDate="2021-08-31"><Value Currency="EUR">1.3846324</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="GBP">23.3492986</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="USD">36.3493756</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="CHF">21.3114216</Value></Calc>
+
+ <Calc Period="1Y" StartDate="2020-09-30"><Value Currency="JPY">27.92295</Value></Calc>
+
+ </CalcSet>
+
+ </Statistics>
+
+ </Performance>
+ <Ratings>
+ <LipperLeaders>
+ <Universe Name="France"><ScoreCard Type="TotalReturn" AsOfDate="2021-09-30"><Score Duration="3yr"><Value>5</Value><Count>506</Count></Score><Score Duration="Overall"><Value>5</Value><Count>506</Count></Score></ScoreCard><ScoreCard Type="ConsistentReturn" AsOfDate="2021-09-30"><Score Duration="3yr"><Value>5</Value><Count>506</Count></Score><Score Duration="Overall"><Value>5</Value><Count>506</Count></Score></ScoreCard><ScoreCard Type="Preservation" AsOfDate="2021-09-30"><Score Duration="3yr"><Value>3</Value><Count>19278</Count></Score><Score Duration="Overall"><Value>3</Value><Count>19278</Count></Score></ScoreCard><ScoreCard Type="Expense" AsOfDate="2021-09-30"><Score Duration="3yr"><Value>2</Value><Count>495</Count></Score><Score Duration="Overall"><Value>2</Value><Count>495</Count></Score></ScoreCard></Universe>
+
+ </LipperLeaders>
+ </Ratings>
+ <MIFIDII>
+  <Report ReportDate="2020-04-10">
+    <Category Id="174" Type="Costs &amp; Charges ex ante">
+      <Attribute Id="1051509" EMTCode="7020" Type="Gross One-off max entry cost non acquired">
+        <Value>0.02</Value>
+      </Attribute>
+      <Attribute Id="1051511" EMTCode="7040" Type="One-off max entry cost acquired">
+        <Value>0.0</Value>
+      </Attribute>
+      <Attribute Id="1051512" EMTCode="7050" Type="One-off max exit cost non aquired">
+        <Value>0.0</Value>
+      </Attribute>
+      <Attribute Id="1051513" EMTCode="7060" Type="One-off max exit cost fixed amount Italy">
+        <Value>0.0</Value>
+      </Attribute>
+      <Attribute Id="1051514" EMTCode="7070" Type="One-off max exit cost acquired">
+        <Value>0.0</Value>
+      </Attribute>
+      <Attribute Id="1051516" EMTCode="7100" Type="Gross Ongoing costs">
+        <Value>0.019</Value>
+      </Attribute>
+      <Attribute Id="1051517" EMTCode="7110" Type="Management fee ex ante">
+        <Value>0.01</Value>
+      </Attribute>
+      <Attribute Id="1051518" EMTCode="7120" Type="Distribution fee ex ante">
+        <Value>0.0</Value>
+      </Attribute>
+      <Attribute Id="1051519" EMTCode="7130" Type="Transaction costs ex ante">
+        <Value>0.005</Value>
+      </Attribute>
+    </Category>
+    <Category Id="175" Type="Costs &amp; Charges ex post">
+      <Attribute Id="1051521" EMTCode="8030" Type="Ongoing costs ex post">
+        <Value>0.016</Value>
+      </Attribute>
+      <Attribute Id="1051522" EMTCode="8050" Type="Management fee ex post">
+        <Value>0.01</Value>
+      </Attribute>
+      <Attribute Id="1051523" EMTCode="8060" Type="Distribution fee ex post">
+        <Value>0.0</Value>
+      </Attribute>
+      <Attribute Id="1051524" EMTCode="8070" Type="Transaction costs ex post">
+        <Value>0.0039</Value>
+      </Attribute>
+      <Attribute Id="1051526" EMTCode="8090" Type="Beginning Of Reference Period">
+        <Date>2019-03-31</Date>
+      </Attribute>
+      <Attribute Id="1051527" EMTCode="8100" Type="End Of Reference Period">
+        <Date>2020-03-31</Date>
+      </Attribute>
+    </Category>
+    <Category Id="176" Type="Distribution strategy">
+      <Attribute Id="1051505" EMTCode="6010" Type="Execution Only">
+        <Text Id="1051605">Retail &amp; Professional</Text>
+      </Attribute>
+      <Attribute Id="1051506" EMTCode="6020" Type="Execution with App Test or Non Adv Svcs">
+        <Text Id="1051605">Retail &amp; Professional</Text>
+      </Attribute>
+      <Attribute Id="1051507" EMTCode="6030" Type="Investment Advice">
+        <Text Id="1051605">Retail &amp; Professional</Text>
+      </Attribute>
+      <Attribute Id="1051508" EMTCode="6040" Type="Portfolio Management">
+        <Text Id="1051605">Retail &amp; Professional</Text>
+      </Attribute>
+    </Category>
+    <Category Id="177" Type="General Information">
+      <Attribute Id="1051640" EMTCode="30" Type="MiFID II Fund Name">
+        <Text>SEPIAM FUNDS - EUROPE SMALLCAPS B</Text>
+      </Attribute>
+      <Attribute Id="1051641" EMTCode="40" Type="MiFID II Fund Currency">
+        <Text>EUR</Text>
+      </Attribute>
+      <Attribute Id="1051530" EMTCode="60" Type="MiFID II Product Type">
+        <Text Id="1051582">UCITS</Text>
+      </Attribute>
+      <Attribute Id="1051642" EMTCode="70" Type="MiFID II Manufacturer Name">
+        <Text>Sepiam</Text>
+      </Attribute>
+    </Category>
+    <Category Id="178" Type="Target markets - Client Ability to Bear Losses">
+      <Attribute Id="1051541" EMTCode="3010" Type="Compatible With Clients Who Can Not Bear Capital Loss">
+        <Text Id="1033324">No</Text>
+      </Attribute>
+      <Attribute Id="1051542" EMTCode="3020" Type="Compatible With Clients Who Can Bear Limited Capital Loss">
+        <Text Id="1033324">No</Text>
+      </Attribute>
+      <Attribute Id="1051544" EMTCode="3040" Type="Compatible With Clients Who Do Not Need Capital Guarantee">
+        <Text Id="1000398">Yes</Text>
+      </Attribute>
+      <Attribute Id="1051545" EMTCode="3050" Type="Compatible With Clients Who Can Bear Loss Beyond Capital">
+        <Text Id="1000398">Yes</Text>
+      </Attribute>
+    </Category>
+    <Category Id="179" Type="Target markets - Client Objectives &amp; Needs">
+      <Attribute Id="1051551" EMTCode="5010" Type="Return Profile Client Looking for Preservation">
+        <Text Id="1033324">No</Text>
+      </Attribute>
+      <Attribute Id="1051552" EMTCode="5020" Type="Return Profile Client Looking for Capital Growth">
+        <Text Id="1000398">Yes</Text>
+      </Attribute>
+      <Attribute Id="1051553" EMTCode="5030" Type="Return Profile Client Looking for Income">
+        <Text Id="1033324">No</Text>
+      </Attribute>
+      <Attribute Id="1051554" EMTCode="5040" Type="Return Profile Hedging">
+        <Text Id="1033324">No</Text>
+      </Attribute>
+      <Attribute Id="1051555" EMTCode="5050" Type="Option or Leveraged Return Profile">
+        <Text Id="1033324">No</Text>
+      </Attribute>
+      <Attribute Id="1051500" EMTCode="5060" Type="Return Profile Other EMT v1">
+        <Text Id="1051584">Neutral</Text>
+      </Attribute>
+      <Attribute Id="1051502" EMTCode="5080" Type="Minimum Recommending Holding Period">
+        <Text>L</Text>
+      </Attribute>
+    </Category>
+    <Category Id="180" Type="Target markets - Investor Type">
+      <Attribute Id="1051534" EMTCode="1010" Type="Investor Type Retail">
+        <Text Id="1000398">Yes</Text>
+      </Attribute>
+      <Attribute Id="1051535" EMTCode="1020" Type="Investor Type Professional">
+        <Text Id="1000398">Yes</Text>
+      </Attribute>
+      <Attribute Id="1051536" EMTCode="1030" Type="Investor Type Eligible Counterparty">
+        <Text Id="1000398">Yes</Text>
+      </Attribute>
+    </Category>
+    <Category Id="181" Type="Target markets - Knowledge and-or Experience">
+      <Attribute Id="1051537" EMTCode="2010" Type="Basic Investor">
+        <Text Id="1000398">Yes</Text>
+      </Attribute>
+      <Attribute Id="1051538" EMTCode="2020" Type="Informed Investor">
+        <Text Id="1000398">Yes</Text>
+      </Attribute>
+      <Attribute Id="1051539" EMTCode="2030" Type="Advanced Investor">
+        <Text Id="1000398">Yes</Text>
+      </Attribute>
+    </Category>
+    <Category Id="182" Type="Target markets - Risk Tolerance">
+      <Attribute Id="1051547" EMTCode="4020" Type="Risk Tolerance UCITS - SRRI">
+        <Rating>5</Rating>
+      </Attribute>
+    </Category>
+    <Category Id="204" Type="EMT Data Set Information">
+      <Attribute Id="1056360" EMTCode="1" Type="EMT Version">
+        <Text Id="1057200">V1</Text>
+      </Attribute>
+    </Category>
+  </Report>
+</MIFIDII>
+
+
+ </ShareClass>
+ </ShareClasses> </AssetOverview>
+</Feed>
